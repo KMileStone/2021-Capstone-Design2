@@ -1,6 +1,6 @@
 Datasets/
 ckpt816/
 log/
-__pycashe__/
-*/__pycashe__/
+__pycache__/
+*/__pycache__/
 *.sh
