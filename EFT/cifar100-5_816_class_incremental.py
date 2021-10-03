@@ -13,7 +13,7 @@ import pickle
 
 import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"   # see issue #152
-os.environ["CUDA_VISIBLE_DEVICES"]='3'
+os.environ["CUDA_VISIBLE_DEVICES"]='0'
 
 
 
@@ -36,7 +36,7 @@ class args():
     batch_size = 128
     lr = 0.01
     # resume=False
-    resume = True
+    resume = False
     total_epoch = 250
     model_path = 'ckpt816/cifar100-5'
 
