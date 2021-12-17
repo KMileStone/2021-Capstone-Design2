@@ -1,0 +1,1610 @@
+start time : 1636405144.4208035
+
+Files already downloaded and verified
+Files already downloaded and verified
+0
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+1
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+2
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+3
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+4
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+5
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+6
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+7
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+8
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+9
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+Training Task :---0
+
+Epoch: 0
+[Train: ], [0/250: ], [Accuracy: 28.640000], [Loss: 2.051739] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 40.500000], [Loss: 1.983248] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 40.500000], [Loss: 1.983248] [Correct: 1.000000]
+
+Epoch: 1
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+[Train: ], [1/250: ], [Accuracy: 42.980000], [Loss: 1.699701] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.400000], [Loss: 1.770835] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 48.400000], [Loss: 1.770835] [Correct: 1.000000]
+
+Epoch: 2
+[Train: ], [2/250: ], [Accuracy: 49.100000], [Loss: 1.534965] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 43.900000], [Loss: 1.991974] [Correct: 1.000000]
+[Test Accuracy known: 43.900000], [Loss: 1.991974] [Correct: 1.000000]
+
+Epoch: 3
+[Train: ], [3/250: ], [Accuracy: 54.480000], [Loss: 1.365950] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 55.200000], [Loss: 1.544057] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 55.200000], [Loss: 1.544057] [Correct: 1.000000]
+
+Epoch: 4
+[Train: ], [4/250: ], [Accuracy: 58.680000], [Loss: 1.267370] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 60.600000], [Loss: 1.332122] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 60.600000], [Loss: 1.332122] [Correct: 1.000000]
+
+Epoch: 5
+[Train: ], [5/250: ], [Accuracy: 60.620000], [Loss: 1.196371] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 59.200000], [Loss: 1.336648] [Correct: 1.000000]
+[Test Accuracy known: 59.200000], [Loss: 1.336648] [Correct: 1.000000]
+
+Epoch: 6
+[Train: ], [6/250: ], [Accuracy: 63.740000], [Loss: 1.105294] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 58.400000], [Loss: 1.450643] [Correct: 1.000000]
+[Test Accuracy known: 58.400000], [Loss: 1.450643] [Correct: 1.000000]
+
+Epoch: 7
+[Train: ], [7/250: ], [Accuracy: 65.980000], [Loss: 1.024525] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 59.700000], [Loss: 1.331430] [Correct: 1.000000]
+[Test Accuracy known: 59.700000], [Loss: 1.331430] [Correct: 1.000000]
+
+Epoch: 8
+[Train: ], [8/250: ], [Accuracy: 68.800000], [Loss: 0.964471] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 62.800000], [Loss: 1.292285] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 62.800000], [Loss: 1.292285] [Correct: 1.000000]
+
+Epoch: 9
+[Train: ], [9/250: ], [Accuracy: 66.140000], [Loss: 1.032392] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 60.500000], [Loss: 1.354175] [Correct: 1.000000]
+[Test Accuracy known: 60.500000], [Loss: 1.354175] [Correct: 1.000000]
+
+Epoch: 10
+[Train: ], [10/250: ], [Accuracy: 68.140000], [Loss: 0.986600] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 68.900000], [Loss: 1.081120] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 68.900000], [Loss: 1.081120] [Correct: 1.000000]
+
+Epoch: 11
+[Train: ], [11/250: ], [Accuracy: 70.040000], [Loss: 0.927876] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 71.200000], [Loss: 0.972535] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 71.200000], [Loss: 0.972535] [Correct: 1.000000]
+
+Epoch: 12
+[Train: ], [12/250: ], [Accuracy: 72.000000], [Loss: 0.844039] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 68.300000], [Loss: 1.106143] [Correct: 1.000000]
+[Test Accuracy known: 68.300000], [Loss: 1.106143] [Correct: 1.000000]
+
+Epoch: 13
+[Train: ], [13/250: ], [Accuracy: 70.660000], [Loss: 0.884275] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 67.200000], [Loss: 1.152595] [Correct: 1.000000]
+[Test Accuracy known: 67.200000], [Loss: 1.152595] [Correct: 1.000000]
+
+Epoch: 14
+[Train: ], [14/250: ], [Accuracy: 73.820000], [Loss: 0.811651] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 67.800000], [Loss: 1.220871] [Correct: 1.000000]
+[Test Accuracy known: 67.800000], [Loss: 1.220871] [Correct: 1.000000]
+
+Epoch: 15
+[Train: ], [15/250: ], [Accuracy: 71.300000], [Loss: 0.872185] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 72.300000], [Loss: 0.909399] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 72.300000], [Loss: 0.909399] [Correct: 1.000000]
+
+Epoch: 16
+[Train: ], [16/250: ], [Accuracy: 77.000000], [Loss: 0.693322] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 73.700000], [Loss: 0.866688] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 73.700000], [Loss: 0.866688] [Correct: 1.000000]
+
+Epoch: 17
+[Train: ], [17/250: ], [Accuracy: 77.300000], [Loss: 0.687054] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 71.800000], [Loss: 1.014145] [Correct: 1.000000]
+[Test Accuracy known: 71.800000], [Loss: 1.014145] [Correct: 1.000000]
+
+Epoch: 18
+[Train: ], [18/250: ], [Accuracy: 76.560000], [Loss: 0.702254] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 73.200000], [Loss: 0.927837] [Correct: 1.000000]
+[Test Accuracy known: 73.200000], [Loss: 0.927837] [Correct: 1.000000]
+
+Epoch: 19
+[Train: ], [19/250: ], [Accuracy: 79.560000], [Loss: 0.637575] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 74.400000], [Loss: 0.903067] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 74.400000], [Loss: 0.903067] [Correct: 1.000000]
+
+Epoch: 20
+[Train: ], [20/250: ], [Accuracy: 80.300000], [Loss: 0.610080] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 76.100000], [Loss: 0.842356] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 76.100000], [Loss: 0.842356] [Correct: 1.000000]
+
+Epoch: 21
+[Train: ], [21/250: ], [Accuracy: 78.880000], [Loss: 0.671082] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 68.200000], [Loss: 1.280874] [Correct: 1.000000]
+[Test Accuracy known: 68.200000], [Loss: 1.280874] [Correct: 1.000000]
+
+Epoch: 22
+[Train: ], [22/250: ], [Accuracy: 76.320000], [Loss: 0.723769] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 70.300000], [Loss: 1.082194] [Correct: 1.000000]
+[Test Accuracy known: 70.300000], [Loss: 1.082194] [Correct: 1.000000]
+
+Epoch: 23
+[Train: ], [23/250: ], [Accuracy: 79.740000], [Loss: 0.619309] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 69.200000], [Loss: 1.178267] [Correct: 1.000000]
+[Test Accuracy known: 69.200000], [Loss: 1.178267] [Correct: 1.000000]
+
+Epoch: 24
+[Train: ], [24/250: ], [Accuracy: 80.100000], [Loss: 0.611209] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 76.500000], [Loss: 0.786779] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 76.500000], [Loss: 0.786779] [Correct: 1.000000]
+
+Epoch: 25
+[Train: ], [25/250: ], [Accuracy: 82.300000], [Loss: 0.525318] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 73.800000], [Loss: 0.883497] [Correct: 1.000000]
+[Test Accuracy known: 73.800000], [Loss: 0.883497] [Correct: 1.000000]
+
+Epoch: 26
+[Train: ], [26/250: ], [Accuracy: 78.560000], [Loss: 0.641788] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 77.800000], [Loss: 0.774984] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 77.800000], [Loss: 0.774984] [Correct: 1.000000]
+
+Epoch: 27
+[Train: ], [27/250: ], [Accuracy: 81.960000], [Loss: 0.562661] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 77.800000], [Loss: 0.699402] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 77.800000], [Loss: 0.699402] [Correct: 1.000000]
+
+Epoch: 28
+[Train: ], [28/250: ], [Accuracy: 83.720000], [Loss: 0.489245] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.800000], [Loss: 0.718835] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 78.800000], [Loss: 0.718835] [Correct: 1.000000]
+
+Epoch: 29
+[Train: ], [29/250: ], [Accuracy: 84.400000], [Loss: 0.479196] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 71.800000], [Loss: 1.031197] [Correct: 1.000000]
+[Test Accuracy known: 71.800000], [Loss: 1.031197] [Correct: 1.000000]
+
+Epoch: 30
+[Train: ], [30/250: ], [Accuracy: 84.760000], [Loss: 0.462149] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.400000], [Loss: 0.751480] [Correct: 1.000000]
+[Test Accuracy known: 78.400000], [Loss: 0.751480] [Correct: 1.000000]
+
+Epoch: 31
+[Train: ], [31/250: ], [Accuracy: 84.500000], [Loss: 0.481522] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 75.200000], [Loss: 0.861229] [Correct: 1.000000]
+[Test Accuracy known: 75.200000], [Loss: 0.861229] [Correct: 1.000000]
+
+Epoch: 32
+[Train: ], [32/250: ], [Accuracy: 82.920000], [Loss: 0.528960] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.600000], [Loss: 0.666370] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 81.600000], [Loss: 0.666370] [Correct: 1.000000]
+
+Epoch: 33
+[Train: ], [33/250: ], [Accuracy: 85.980000], [Loss: 0.434187] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 74.400000], [Loss: 0.903201] [Correct: 1.000000]
+[Test Accuracy known: 74.400000], [Loss: 0.903201] [Correct: 1.000000]
+
+Epoch: 34
+[Train: ], [34/250: ], [Accuracy: 85.100000], [Loss: 0.466185] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 77.300000], [Loss: 0.807492] [Correct: 1.000000]
+[Test Accuracy known: 77.300000], [Loss: 0.807492] [Correct: 1.000000]
+
+Epoch: 35
+[Train: ], [35/250: ], [Accuracy: 84.700000], [Loss: 0.483426] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 76.600000], [Loss: 0.901094] [Correct: 1.000000]
+[Test Accuracy known: 76.600000], [Loss: 0.901094] [Correct: 1.000000]
+
+Epoch: 36
+[Train: ], [36/250: ], [Accuracy: 79.100000], [Loss: 0.638345] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 72.200000], [Loss: 1.035437] [Correct: 1.000000]
+[Test Accuracy known: 72.200000], [Loss: 1.035437] [Correct: 1.000000]
+
+Epoch: 37
+[Train: ], [37/250: ], [Accuracy: 84.400000], [Loss: 0.457605] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 75.800000], [Loss: 0.861194] [Correct: 1.000000]
+[Test Accuracy known: 75.800000], [Loss: 0.861194] [Correct: 1.000000]
+
+Epoch: 38
+[Train: ], [38/250: ], [Accuracy: 89.460000], [Loss: 0.335292] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.300000], [Loss: 0.656020] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 82.300000], [Loss: 0.656020] [Correct: 1.000000]
+
+Epoch: 39
+[Train: ], [39/250: ], [Accuracy: 88.200000], [Loss: 0.371024] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.600000], [Loss: 0.816496] [Correct: 1.000000]
+[Test Accuracy known: 78.600000], [Loss: 0.816496] [Correct: 1.000000]
+
+Epoch: 40
+[Train: ], [40/250: ], [Accuracy: 86.200000], [Loss: 0.425081] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.600000], [Loss: 0.640399] [Correct: 1.000000]
+[Test Accuracy known: 81.600000], [Loss: 0.640399] [Correct: 1.000000]
+
+Epoch: 41
+[Train: ], [41/250: ], [Accuracy: 88.160000], [Loss: 0.343116] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.400000], [Loss: 0.730811] [Correct: 1.000000]
+[Test Accuracy known: 78.400000], [Loss: 0.730811] [Correct: 1.000000]
+
+Epoch: 42
+[Train: ], [42/250: ], [Accuracy: 91.500000], [Loss: 0.297481] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 79.300000], [Loss: 0.752722] [Correct: 1.000000]
+[Test Accuracy known: 79.300000], [Loss: 0.752722] [Correct: 1.000000]
+
+Epoch: 43
+[Train: ], [43/250: ], [Accuracy: 83.220000], [Loss: 0.509613] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 75.200000], [Loss: 0.876808] [Correct: 1.000000]
+[Test Accuracy known: 75.200000], [Loss: 0.876808] [Correct: 1.000000]
+
+Epoch: 44
+[Train: ], [44/250: ], [Accuracy: 87.040000], [Loss: 0.417038] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 77.700000], [Loss: 0.877905] [Correct: 1.000000]
+[Test Accuracy known: 77.700000], [Loss: 0.877905] [Correct: 1.000000]
+
+Epoch: 45
+[Train: ], [45/250: ], [Accuracy: 87.680000], [Loss: 0.367075] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.100000], [Loss: 0.590734] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 83.100000], [Loss: 0.590734] [Correct: 1.000000]
+
+Epoch: 46
+[Train: ], [46/250: ], [Accuracy: 91.300000], [Loss: 0.288191] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.200000], [Loss: 0.637214] [Correct: 1.000000]
+[Test Accuracy known: 82.200000], [Loss: 0.637214] [Correct: 1.000000]
+
+Epoch: 47
+[Train: ], [47/250: ], [Accuracy: 86.400000], [Loss: 0.412797] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.700000], [Loss: 0.765737] [Correct: 1.000000]
+[Test Accuracy known: 78.700000], [Loss: 0.765737] [Correct: 1.000000]
+
+Epoch: 48
+[Train: ], [48/250: ], [Accuracy: 89.740000], [Loss: 0.306842] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.600000], [Loss: 0.556141] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 83.600000], [Loss: 0.556141] [Correct: 1.000000]
+
+Epoch: 49
+[Train: ], [49/250: ], [Accuracy: 91.620000], [Loss: 0.277362] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.200000], [Loss: 0.640528] [Correct: 1.000000]
+[Test Accuracy known: 81.200000], [Loss: 0.640528] [Correct: 1.000000]
+
+Epoch: 50
+[Train: ], [50/250: ], [Accuracy: 90.660000], [Loss: 0.283274] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.000000], [Loss: 0.806168] [Correct: 1.000000]
+[Test Accuracy known: 78.000000], [Loss: 0.806168] [Correct: 1.000000]
+
+Epoch: 51
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+[Train: ], [51/250: ], [Accuracy: 87.680000], [Loss: 0.384586] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 77.900000], [Loss: 0.792754] [Correct: 1.000000]
+[Test Accuracy known: 77.900000], [Loss: 0.792754] [Correct: 1.000000]
+
+Epoch: 52
+[Train: ], [52/250: ], [Accuracy: 87.760000], [Loss: 0.399386] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 79.800000], [Loss: 0.683857] [Correct: 1.000000]
+[Test Accuracy known: 79.800000], [Loss: 0.683857] [Correct: 1.000000]
+
+Epoch: 53
+[Train: ], [53/250: ], [Accuracy: 88.640000], [Loss: 0.337372] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.700000], [Loss: 0.781951] [Correct: 1.000000]
+[Test Accuracy known: 78.700000], [Loss: 0.781951] [Correct: 1.000000]
+
+Epoch: 54
+[Train: ], [54/250: ], [Accuracy: 91.520000], [Loss: 0.261121] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.000000], [Loss: 0.576267] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 85.000000], [Loss: 0.576267] [Correct: 1.000000]
+
+Epoch: 55
+[Train: ], [55/250: ], [Accuracy: 92.840000], [Loss: 0.236919] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.200000], [Loss: 0.615793] [Correct: 1.000000]
+[Test Accuracy known: 82.200000], [Loss: 0.615793] [Correct: 1.000000]
+
+Epoch: 56
+[Train: ], [56/250: ], [Accuracy: 90.620000], [Loss: 0.288708] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 76.400000], [Loss: 0.926097] [Correct: 1.000000]
+[Test Accuracy known: 76.400000], [Loss: 0.926097] [Correct: 1.000000]
+
+Epoch: 57
+[Train: ], [57/250: ], [Accuracy: 90.040000], [Loss: 0.304935] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 79.400000], [Loss: 0.761990] [Correct: 1.000000]
+[Test Accuracy known: 79.400000], [Loss: 0.761990] [Correct: 1.000000]
+
+Epoch: 58
+[Train: ], [58/250: ], [Accuracy: 90.600000], [Loss: 0.296358] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.500000], [Loss: 0.595333] [Correct: 1.000000]
+[Test Accuracy known: 84.500000], [Loss: 0.595333] [Correct: 1.000000]
+
+Epoch: 59
+[Train: ], [59/250: ], [Accuracy: 91.140000], [Loss: 0.262425] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.800000], [Loss: 0.551374] [Correct: 1.000000]
+[Test Accuracy known: 83.800000], [Loss: 0.551374] [Correct: 1.000000]
+
+Epoch: 60
+[Train: ], [60/250: ], [Accuracy: 90.960000], [Loss: 0.291926] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.700000], [Loss: 0.708541] [Correct: 1.000000]
+[Test Accuracy known: 81.700000], [Loss: 0.708541] [Correct: 1.000000]
+
+Epoch: 61
+[Train: ], [61/250: ], [Accuracy: 92.160000], [Loss: 0.253773] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.400000], [Loss: 0.603840] [Correct: 1.000000]
+[Test Accuracy known: 83.400000], [Loss: 0.603840] [Correct: 1.000000]
+
+Epoch: 62
+[Train: ], [62/250: ], [Accuracy: 90.060000], [Loss: 0.322759] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.500000], [Loss: 0.664223] [Correct: 1.000000]
+[Test Accuracy known: 82.500000], [Loss: 0.664223] [Correct: 1.000000]
+
+Epoch: 63
+[Train: ], [63/250: ], [Accuracy: 88.820000], [Loss: 0.356945] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.700000], [Loss: 0.681723] [Correct: 1.000000]
+[Test Accuracy known: 81.700000], [Loss: 0.681723] [Correct: 1.000000]
+
+Epoch: 64
+[Train: ], [64/250: ], [Accuracy: 87.540000], [Loss: 0.402522] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.300000], [Loss: 0.841262] [Correct: 1.000000]
+[Test Accuracy known: 78.300000], [Loss: 0.841262] [Correct: 1.000000]
+
+Epoch: 65
+[Train: ], [65/250: ], [Accuracy: 86.420000], [Loss: 0.413667] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.200000], [Loss: 0.638296] [Correct: 1.000000]
+[Test Accuracy known: 83.200000], [Loss: 0.638296] [Correct: 1.000000]
+
+Epoch: 66
+[Train: ], [66/250: ], [Accuracy: 92.180000], [Loss: 0.256306] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.000000], [Loss: 0.730159] [Correct: 1.000000]
+[Test Accuracy known: 81.000000], [Loss: 0.730159] [Correct: 1.000000]
+
+Epoch: 67
+[Train: ], [67/250: ], [Accuracy: 91.280000], [Loss: 0.269897] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.900000], [Loss: 0.616510] [Correct: 1.000000]
+[Test Accuracy known: 82.900000], [Loss: 0.616510] [Correct: 1.000000]
+
+Epoch: 68
+[Train: ], [68/250: ], [Accuracy: 91.720000], [Loss: 0.266962] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.100000], [Loss: 0.532723] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 85.100000], [Loss: 0.532723] [Correct: 1.000000]
+
+Epoch: 69
+[Train: ], [69/250: ], [Accuracy: 90.420000], [Loss: 0.291687] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.300000], [Loss: 0.695499] [Correct: 1.000000]
+[Test Accuracy known: 81.300000], [Loss: 0.695499] [Correct: 1.000000]
+
+Epoch: 70
+[Train: ], [70/250: ], [Accuracy: 90.980000], [Loss: 0.277911] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.600000], [Loss: 0.522868] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 85.600000], [Loss: 0.522868] [Correct: 1.000000]
+
+Epoch: 71
+[Train: ], [71/250: ], [Accuracy: 93.780000], [Loss: 0.211302] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.200000], [Loss: 0.648986] [Correct: 1.000000]
+[Test Accuracy known: 83.200000], [Loss: 0.648986] [Correct: 1.000000]
+
+Epoch: 72
+[Train: ], [72/250: ], [Accuracy: 92.480000], [Loss: 0.240422] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.200000], [Loss: 0.650601] [Correct: 1.000000]
+[Test Accuracy known: 83.200000], [Loss: 0.650601] [Correct: 1.000000]
+
+Epoch: 73
+[Train: ], [73/250: ], [Accuracy: 91.840000], [Loss: 0.250546] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 80.500000], [Loss: 0.751172] [Correct: 1.000000]
+[Test Accuracy known: 80.500000], [Loss: 0.751172] [Correct: 1.000000]
+
+Epoch: 74
+[Train: ], [74/250: ], [Accuracy: 90.020000], [Loss: 0.310927] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.400000], [Loss: 0.732377] [Correct: 1.000000]
+[Test Accuracy known: 81.400000], [Loss: 0.732377] [Correct: 1.000000]
+
+Epoch: 75
+[Train: ], [75/250: ], [Accuracy: 91.000000], [Loss: 0.280751] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.500000], [Loss: 0.560354] [Correct: 1.000000]
+[Test Accuracy known: 83.500000], [Loss: 0.560354] [Correct: 1.000000]
+
+Epoch: 76
+[Train: ], [76/250: ], [Accuracy: 91.520000], [Loss: 0.258797] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.400000], [Loss: 0.539028] [Correct: 1.000000]
+[Test Accuracy known: 84.400000], [Loss: 0.539028] [Correct: 1.000000]
+
+Epoch: 77
+[Train: ], [77/250: ], [Accuracy: 94.920000], [Loss: 0.202064] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.200000], [Loss: 0.616210] [Correct: 1.000000]
+[Test Accuracy known: 84.200000], [Loss: 0.616210] [Correct: 1.000000]
+
+Epoch: 78
+[Train: ], [78/250: ], [Accuracy: 87.880000], [Loss: 0.392807] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.500000], [Loss: 0.607993] [Correct: 1.000000]
+[Test Accuracy known: 83.500000], [Loss: 0.607993] [Correct: 1.000000]
+
+Epoch: 79
+[Train: ], [79/250: ], [Accuracy: 90.620000], [Loss: 0.299286] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 80.700000], [Loss: 0.695698] [Correct: 1.000000]
+[Test Accuracy known: 80.700000], [Loss: 0.695698] [Correct: 1.000000]
+
+Epoch: 80
+[Train: ], [80/250: ], [Accuracy: 92.240000], [Loss: 0.253703] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.000000], [Loss: 0.532764] [Correct: 1.000000]
+[Test Accuracy known: 84.000000], [Loss: 0.532764] [Correct: 1.000000]
+
+Epoch: 81
+[Train: ], [81/250: ], [Accuracy: 92.620000], [Loss: 0.252983] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 79.300000], [Loss: 0.750695] [Correct: 1.000000]
+[Test Accuracy known: 79.300000], [Loss: 0.750695] [Correct: 1.000000]
+
+Epoch: 82
+[Train: ], [82/250: ], [Accuracy: 89.100000], [Loss: 0.336917] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.400000], [Loss: 0.573706] [Correct: 1.000000]
+[Test Accuracy known: 84.400000], [Loss: 0.573706] [Correct: 1.000000]
+
+Epoch: 83
+[Train: ], [83/250: ], [Accuracy: 92.640000], [Loss: 0.227126] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.800000], [Loss: 0.635437] [Correct: 1.000000]
+[Test Accuracy known: 82.800000], [Loss: 0.635437] [Correct: 1.000000]
+
+Epoch: 84
+[Train: ], [84/250: ], [Accuracy: 93.580000], [Loss: 0.223728] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.300000], [Loss: 0.543224] [Correct: 1.000000]
+[Test Accuracy known: 83.300000], [Loss: 0.543224] [Correct: 1.000000]
+
+Epoch: 85
+[Train: ], [85/250: ], [Accuracy: 91.140000], [Loss: 0.284559] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.600000], [Loss: 0.826531] [Correct: 1.000000]
+[Test Accuracy known: 78.600000], [Loss: 0.826531] [Correct: 1.000000]
+
+Epoch: 86
+[Train: ], [86/250: ], [Accuracy: 88.820000], [Loss: 0.365793] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 78.100000], [Loss: 0.864614] [Correct: 1.000000]
+[Test Accuracy known: 78.100000], [Loss: 0.864614] [Correct: 1.000000]
+
+Epoch: 87
+[Train: ], [87/250: ], [Accuracy: 89.920000], [Loss: 0.335216] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 72.500000], [Loss: 1.033032] [Correct: 1.000000]
+[Test Accuracy known: 72.500000], [Loss: 1.033032] [Correct: 1.000000]
+
+Epoch: 88
+[Train: ], [88/250: ], [Accuracy: 88.020000], [Loss: 0.361455] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 81.600000], [Loss: 0.675267] [Correct: 1.000000]
+[Test Accuracy known: 81.600000], [Loss: 0.675267] [Correct: 1.000000]
+
+Epoch: 89
+[Train: ], [89/250: ], [Accuracy: 91.040000], [Loss: 0.285792] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.000000], [Loss: 0.563447] [Correct: 1.000000]
+[Test Accuracy known: 85.000000], [Loss: 0.563447] [Correct: 1.000000]
+
+Epoch: 90
+[Train: ], [90/250: ], [Accuracy: 92.300000], [Loss: 0.266802] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 83.200000], [Loss: 0.609746] [Correct: 1.000000]
+[Test Accuracy known: 83.200000], [Loss: 0.609746] [Correct: 1.000000]
+
+Epoch: 91
+[Train: ], [91/250: ], [Accuracy: 92.300000], [Loss: 0.258153] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.400000], [Loss: 0.623044] [Correct: 1.000000]
+[Test Accuracy known: 82.400000], [Loss: 0.623044] [Correct: 1.000000]
+
+Epoch: 92
+[Train: ], [92/250: ], [Accuracy: 88.980000], [Loss: 0.356182] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.400000], [Loss: 0.539541] [Correct: 1.000000]
+[Test Accuracy known: 85.400000], [Loss: 0.539541] [Correct: 1.000000]
+
+Epoch: 93
+[Train: ], [93/250: ], [Accuracy: 91.180000], [Loss: 0.292871] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 87.300000], [Loss: 0.429419] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 87.300000], [Loss: 0.429419] [Correct: 1.000000]
+
+Epoch: 94
+[Train: ], [94/250: ], [Accuracy: 90.860000], [Loss: 0.288355] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.100000], [Loss: 0.524739] [Correct: 1.000000]
+[Test Accuracy known: 84.100000], [Loss: 0.524739] [Correct: 1.000000]
+
+Epoch: 95
+[Train: ], [95/250: ], [Accuracy: 93.600000], [Loss: 0.214492] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.200000], [Loss: 0.529741] [Correct: 1.000000]
+[Test Accuracy known: 85.200000], [Loss: 0.529741] [Correct: 1.000000]
+
+Epoch: 96
+[Train: ], [96/250: ], [Accuracy: 92.340000], [Loss: 0.270055] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 84.700000], [Loss: 0.547097] [Correct: 1.000000]
+[Test Accuracy known: 84.700000], [Loss: 0.547097] [Correct: 1.000000]
+
+Epoch: 97
+[Train: ], [97/250: ], [Accuracy: 94.300000], [Loss: 0.201111] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 82.500000], [Loss: 0.610524] [Correct: 1.000000]
+[Test Accuracy known: 82.500000], [Loss: 0.610524] [Correct: 1.000000]
+
+Epoch: 98
+[Train: ], [98/250: ], [Accuracy: 94.780000], [Loss: 0.172887] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 85.200000], [Loss: 0.536338] [Correct: 1.000000]
+[Test Accuracy known: 85.200000], [Loss: 0.536338] [Correct: 1.000000]
+
+Epoch: 99
+[Train: ], [99/250: ], [Accuracy: 93.060000], [Loss: 0.217876] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 79.000000], [Loss: 0.869185] [Correct: 1.000000]
+[Test Accuracy known: 79.000000], [Loss: 0.869185] [Correct: 1.000000]
+
+Epoch: 100
+[Train: ], [100/250: ], [Accuracy: 96.140000], [Loss: 0.139143] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.400000], [Loss: 0.353647] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 89.400000], [Loss: 0.353647] [Correct: 1.000000]
+
+Epoch: 101
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+[Train: ], [101/250: ], [Accuracy: 97.980000], [Loss: 0.092500] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.200000], [Loss: 0.357295] [Correct: 1.000000]
+[Test Accuracy known: 89.200000], [Loss: 0.357295] [Correct: 1.000000]
+
+Epoch: 102
+[Train: ], [102/250: ], [Accuracy: 98.460000], [Loss: 0.086144] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.600000], [Loss: 0.352255] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 89.600000], [Loss: 0.352255] [Correct: 1.000000]
+
+Epoch: 103
+[Train: ], [103/250: ], [Accuracy: 98.680000], [Loss: 0.073835] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.500000], [Loss: 0.362173] [Correct: 1.000000]
+[Test Accuracy known: 89.500000], [Loss: 0.362173] [Correct: 1.000000]
+
+Epoch: 104
+[Train: ], [104/250: ], [Accuracy: 98.880000], [Loss: 0.062270] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.363004] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 90.300000], [Loss: 0.363004] [Correct: 1.000000]
+
+Epoch: 105
+[Train: ], [105/250: ], [Accuracy: 98.880000], [Loss: 0.056354] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.500000], [Loss: 0.352026] [Correct: 1.000000]
+[Test Accuracy known: 89.500000], [Loss: 0.352026] [Correct: 1.000000]
+
+Epoch: 106
+[Train: ], [106/250: ], [Accuracy: 99.120000], [Loss: 0.054288] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.700000], [Loss: 0.344081] [Correct: 1.000000]
+[Test Accuracy known: 89.700000], [Loss: 0.344081] [Correct: 1.000000]
+
+Epoch: 107
+[Train: ], [107/250: ], [Accuracy: 99.120000], [Loss: 0.063631] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.700000], [Loss: 0.341465] [Correct: 1.000000]
+[Test Accuracy known: 89.700000], [Loss: 0.341465] [Correct: 1.000000]
+
+Epoch: 108
+[Train: ], [108/250: ], [Accuracy: 98.960000], [Loss: 0.059158] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.800000], [Loss: 0.357343] [Correct: 1.000000]
+[Test Accuracy known: 89.800000], [Loss: 0.357343] [Correct: 1.000000]
+
+Epoch: 109
+[Train: ], [109/250: ], [Accuracy: 98.980000], [Loss: 0.062382] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.900000], [Loss: 0.346171] [Correct: 1.000000]
+[Test Accuracy known: 89.900000], [Loss: 0.346171] [Correct: 1.000000]
+
+Epoch: 110
+[Train: ], [110/250: ], [Accuracy: 98.980000], [Loss: 0.058213] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.900000], [Loss: 0.347713] [Correct: 1.000000]
+[Test Accuracy known: 89.900000], [Loss: 0.347713] [Correct: 1.000000]
+
+Epoch: 111
+[Train: ], [111/250: ], [Accuracy: 99.440000], [Loss: 0.043230] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.400000], [Loss: 0.353321] [Correct: 1.000000]
+[Test Accuracy known: 89.400000], [Loss: 0.353321] [Correct: 1.000000]
+
+Epoch: 112
+[Train: ], [112/250: ], [Accuracy: 99.460000], [Loss: 0.042671] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.700000], [Loss: 0.347451] [Correct: 1.000000]
+[Test Accuracy known: 89.700000], [Loss: 0.347451] [Correct: 1.000000]
+
+Epoch: 113
+[Train: ], [113/250: ], [Accuracy: 99.540000], [Loss: 0.038690] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.400000], [Loss: 0.339631] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 90.400000], [Loss: 0.339631] [Correct: 1.000000]
+
+Epoch: 114
+[Train: ], [114/250: ], [Accuracy: 99.580000], [Loss: 0.034991] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.800000], [Loss: 0.351699] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 90.800000], [Loss: 0.351699] [Correct: 1.000000]
+
+Epoch: 115
+[Train: ], [115/250: ], [Accuracy: 99.380000], [Loss: 0.043033] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.337899] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.337899] [Correct: 1.000000]
+
+Epoch: 116
+[Train: ], [116/250: ], [Accuracy: 99.620000], [Loss: 0.036159] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.900000], [Loss: 0.353107] [Correct: 1.000000]
+[Test Accuracy known: 89.900000], [Loss: 0.353107] [Correct: 1.000000]
+
+Epoch: 117
+[Train: ], [117/250: ], [Accuracy: 99.520000], [Loss: 0.035985] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.000000], [Loss: 0.339116] [Correct: 1.000000]
+[Test Accuracy known: 90.000000], [Loss: 0.339116] [Correct: 1.000000]
+
+Epoch: 118
+[Train: ], [118/250: ], [Accuracy: 99.380000], [Loss: 0.052581] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.342813] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.342813] [Correct: 1.000000]
+
+Epoch: 119
+[Train: ], [119/250: ], [Accuracy: 99.480000], [Loss: 0.056304] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.900000], [Loss: 0.337180] [Correct: 1.000000]
+[Test Accuracy known: 89.900000], [Loss: 0.337180] [Correct: 1.000000]
+
+Epoch: 120
+[Train: ], [120/250: ], [Accuracy: 99.340000], [Loss: 0.046030] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 89.600000], [Loss: 0.365485] [Correct: 1.000000]
+[Test Accuracy known: 89.600000], [Loss: 0.365485] [Correct: 1.000000]
+
+Epoch: 121
+[Train: ], [121/250: ], [Accuracy: 99.440000], [Loss: 0.041859] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.100000], [Loss: 0.372091] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.372091] [Correct: 1.000000]
+
+Epoch: 122
+[Train: ], [122/250: ], [Accuracy: 99.500000], [Loss: 0.047696] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.000000], [Loss: 0.354687] [Correct: 1.000000]
+[Test Accuracy known: 90.000000], [Loss: 0.354687] [Correct: 1.000000]
+
+Epoch: 123
+[Train: ], [123/250: ], [Accuracy: 99.560000], [Loss: 0.064902] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.100000], [Loss: 0.357203] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.357203] [Correct: 1.000000]
+
+Epoch: 124
+[Train: ], [124/250: ], [Accuracy: 99.280000], [Loss: 0.048325] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.700000], [Loss: 0.349048] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.349048] [Correct: 1.000000]
+
+Epoch: 125
+[Train: ], [125/250: ], [Accuracy: 99.560000], [Loss: 0.038004] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.348234] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.348234] [Correct: 1.000000]
+
+Epoch: 126
+[Train: ], [126/250: ], [Accuracy: 99.560000], [Loss: 0.032404] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.800000], [Loss: 0.340710] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 90.800000], [Loss: 0.340710] [Correct: 1.000000]
+
+Epoch: 127
+[Train: ], [127/250: ], [Accuracy: 99.700000], [Loss: 0.033203] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 91.100000], [Loss: 0.342727] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 91.100000], [Loss: 0.342727] [Correct: 1.000000]
+
+Epoch: 128
+[Train: ], [128/250: ], [Accuracy: 99.680000], [Loss: 0.034875] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.600000], [Loss: 0.344772] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.344772] [Correct: 1.000000]
+
+Epoch: 129
+[Train: ], [129/250: ], [Accuracy: 99.660000], [Loss: 0.029635] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.700000], [Loss: 0.353021] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.353021] [Correct: 1.000000]
+
+Epoch: 130
+[Train: ], [130/250: ], [Accuracy: 99.800000], [Loss: 0.044325] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.900000], [Loss: 0.340511] [Correct: 1.000000]
+[Test Accuracy known: 90.900000], [Loss: 0.340511] [Correct: 1.000000]
+
+Epoch: 131
+[Train: ], [131/250: ], [Accuracy: 99.600000], [Loss: 0.051968] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 91.000000], [Loss: 0.333299] [Correct: 1.000000]
+[Test Accuracy known: 91.000000], [Loss: 0.333299] [Correct: 1.000000]
+
+Epoch: 132
+[Train: ], [132/250: ], [Accuracy: 99.500000], [Loss: 0.037274] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.355077] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.355077] [Correct: 1.000000]
+
+Epoch: 133
+[Train: ], [133/250: ], [Accuracy: 99.620000], [Loss: 0.035215] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.700000], [Loss: 0.339208] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.339208] [Correct: 1.000000]
+
+Epoch: 134
+[Train: ], [134/250: ], [Accuracy: 99.720000], [Loss: 0.033502] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.342126] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.342126] [Correct: 1.000000]
+
+Epoch: 135
+[Train: ], [135/250: ], [Accuracy: 99.660000], [Loss: 0.034370] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 91.200000], [Loss: 0.323109] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 91.200000], [Loss: 0.323109] [Correct: 1.000000]
+
+Epoch: 136
+[Train: ], [136/250: ], [Accuracy: 99.600000], [Loss: 0.032887] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.600000], [Loss: 0.339931] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.339931] [Correct: 1.000000]
+
+Epoch: 137
+[Train: ], [137/250: ], [Accuracy: 99.800000], [Loss: 0.028524] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.600000], [Loss: 0.329136] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.329136] [Correct: 1.000000]
+
+Epoch: 138
+[Train: ], [138/250: ], [Accuracy: 99.800000], [Loss: 0.046309] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.500000], [Loss: 0.340788] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.340788] [Correct: 1.000000]
+
+Epoch: 139
+[Train: ], [139/250: ], [Accuracy: 99.520000], [Loss: 0.031412] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.400000], [Loss: 0.337633] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.337633] [Correct: 1.000000]
+
+Epoch: 140
+[Train: ], [140/250: ], [Accuracy: 99.860000], [Loss: 0.029325] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.500000], [Loss: 0.322101] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.322101] [Correct: 1.000000]
+
+Epoch: 141
+[Train: ], [141/250: ], [Accuracy: 99.520000], [Loss: 0.032437] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.400000], [Loss: 0.348291] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.348291] [Correct: 1.000000]
+
+Epoch: 142
+[Train: ], [142/250: ], [Accuracy: 99.840000], [Loss: 0.026719] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 91.400000], [Loss: 0.330705] [Correct: 1.000000]
+Saving..
+[Test Accuracy known: 91.400000], [Loss: 0.330705] [Correct: 1.000000]
+
+Epoch: 143
+[Train: ], [143/250: ], [Accuracy: 99.700000], [Loss: 0.034149] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.700000], [Loss: 0.325502] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.325502] [Correct: 1.000000]
+
+Epoch: 144
+[Train: ], [144/250: ], [Accuracy: 99.640000], [Loss: 0.030796] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.300000], [Loss: 0.337303] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.337303] [Correct: 1.000000]
+
+Epoch: 145
+[Train: ], [145/250: ], [Accuracy: 99.780000], [Loss: 0.029962] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.200000], [Loss: 0.340570] [Correct: 1.000000]
+[Test Accuracy known: 90.200000], [Loss: 0.340570] [Correct: 1.000000]
+
+Epoch: 146
+[Train: ], [146/250: ], [Accuracy: 99.640000], [Loss: 0.027578] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.700000], [Loss: 0.334987] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.334987] [Correct: 1.000000]
+
+Epoch: 147
+[Train: ], [147/250: ], [Accuracy: 99.640000], [Loss: 0.045174] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.700000], [Loss: 0.330338] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.330338] [Correct: 1.000000]
+
+Epoch: 148
+[Train: ], [148/250: ], [Accuracy: 99.420000], [Loss: 0.034105] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.600000], [Loss: 0.352885] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.352885] [Correct: 1.000000]
+
+Epoch: 149
+[Train: ], [149/250: ], [Accuracy: 99.760000], [Loss: 0.033874] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 90.500000], [Loss: 0.335439] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.335439] [Correct: 1.000000]
+
+Epoch: 150
+[Train: ], [150/250: ], [Accuracy: 99.820000], [Loss: 0.034254] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.300000], [Loss: 0.339164] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.339164] [Correct: 1.000000]
+
+Epoch: 151
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+[Train: ], [151/250: ], [Accuracy: 99.820000], [Loss: 0.030136] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 89.800000], [Loss: 0.334653] [Correct: 1.000000]
+[Test Accuracy known: 89.800000], [Loss: 0.334653] [Correct: 1.000000]
+
+Epoch: 152
+[Train: ], [152/250: ], [Accuracy: 99.860000], [Loss: 0.022226] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 91.200000], [Loss: 0.329694] [Correct: 1.000000]
+[Test Accuracy known: 91.200000], [Loss: 0.329694] [Correct: 1.000000]
+
+Epoch: 153
+[Train: ], [153/250: ], [Accuracy: 99.800000], [Loss: 0.025775] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.500000], [Loss: 0.330835] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.330835] [Correct: 1.000000]
+
+Epoch: 154
+[Train: ], [154/250: ], [Accuracy: 99.840000], [Loss: 0.023361] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.300000], [Loss: 0.329754] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.329754] [Correct: 1.000000]
+
+Epoch: 155
+[Train: ], [155/250: ], [Accuracy: 99.820000], [Loss: 0.021609] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.500000], [Loss: 0.326717] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.326717] [Correct: 1.000000]
+
+Epoch: 156
+[Train: ], [156/250: ], [Accuracy: 99.780000], [Loss: 0.034474] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.331296] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.331296] [Correct: 1.000000]
+
+Epoch: 157
+[Train: ], [157/250: ], [Accuracy: 99.860000], [Loss: 0.022624] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 91.100000], [Loss: 0.326261] [Correct: 1.000000]
+[Test Accuracy known: 91.100000], [Loss: 0.326261] [Correct: 1.000000]
+
+Epoch: 158
+[Train: ], [158/250: ], [Accuracy: 99.940000], [Loss: 0.027069] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.500000], [Loss: 0.332413] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.332413] [Correct: 1.000000]
+
+Epoch: 159
+[Train: ], [159/250: ], [Accuracy: 99.860000], [Loss: 0.022245] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.326414] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.326414] [Correct: 1.000000]
+
+Epoch: 160
+[Train: ], [160/250: ], [Accuracy: 99.900000], [Loss: 0.021260] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.324823] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.324823] [Correct: 1.000000]
+
+Epoch: 161
+[Train: ], [161/250: ], [Accuracy: 99.820000], [Loss: 0.022875] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.900000], [Loss: 0.326489] [Correct: 1.000000]
+[Test Accuracy known: 90.900000], [Loss: 0.326489] [Correct: 1.000000]
+
+Epoch: 162
+[Train: ], [162/250: ], [Accuracy: 99.900000], [Loss: 0.031744] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.500000], [Loss: 0.327719] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.327719] [Correct: 1.000000]
+
+Epoch: 163
+[Train: ], [163/250: ], [Accuracy: 99.740000], [Loss: 0.035857] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.335937] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.335937] [Correct: 1.000000]
+
+Epoch: 164
+[Train: ], [164/250: ], [Accuracy: 99.860000], [Loss: 0.027710] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.329366] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.329366] [Correct: 1.000000]
+
+Epoch: 165
+[Train: ], [165/250: ], [Accuracy: 99.760000], [Loss: 0.040193] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.330327] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.330327] [Correct: 1.000000]
+
+Epoch: 166
+[Train: ], [166/250: ], [Accuracy: 99.900000], [Loss: 0.021391] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.330384] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.330384] [Correct: 1.000000]
+
+Epoch: 167
+[Train: ], [167/250: ], [Accuracy: 99.860000], [Loss: 0.028456] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.331369] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.331369] [Correct: 1.000000]
+
+Epoch: 168
+[Train: ], [168/250: ], [Accuracy: 99.860000], [Loss: 0.024812] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.800000], [Loss: 0.326361] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.326361] [Correct: 1.000000]
+
+Epoch: 169
+[Train: ], [169/250: ], [Accuracy: 99.860000], [Loss: 0.024587] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.331816] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.331816] [Correct: 1.000000]
+
+Epoch: 170
+[Train: ], [170/250: ], [Accuracy: 99.860000], [Loss: 0.024912] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.333005] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.333005] [Correct: 1.000000]
+
+Epoch: 171
+[Train: ], [171/250: ], [Accuracy: 99.880000], [Loss: 0.023643] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.800000], [Loss: 0.331111] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.331111] [Correct: 1.000000]
+
+Epoch: 172
+[Train: ], [172/250: ], [Accuracy: 99.820000], [Loss: 0.023740] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.800000], [Loss: 0.330054] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.330054] [Correct: 1.000000]
+
+Epoch: 173
+[Train: ], [173/250: ], [Accuracy: 99.780000], [Loss: 0.025723] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.334853] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.334853] [Correct: 1.000000]
+
+Epoch: 174
+[Train: ], [174/250: ], [Accuracy: 99.880000], [Loss: 0.022356] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.500000], [Loss: 0.327771] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.327771] [Correct: 1.000000]
+
+Epoch: 175
+[Train: ], [175/250: ], [Accuracy: 99.820000], [Loss: 0.020767] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.325965] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.325965] [Correct: 1.000000]
+
+Epoch: 176
+[Train: ], [176/250: ], [Accuracy: 99.900000], [Loss: 0.022077] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 91.000000], [Loss: 0.326462] [Correct: 1.000000]
+[Test Accuracy known: 91.000000], [Loss: 0.326462] [Correct: 1.000000]
+
+Epoch: 177
+[Train: ], [177/250: ], [Accuracy: 99.920000], [Loss: 0.021170] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 91.200000], [Loss: 0.327910] [Correct: 1.000000]
+[Test Accuracy known: 91.200000], [Loss: 0.327910] [Correct: 1.000000]
+
+Epoch: 178
+[Train: ], [178/250: ], [Accuracy: 99.960000], [Loss: 0.021538] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 91.000000], [Loss: 0.321746] [Correct: 1.000000]
+[Test Accuracy known: 91.000000], [Loss: 0.321746] [Correct: 1.000000]
+
+Epoch: 179
+[Train: ], [179/250: ], [Accuracy: 99.880000], [Loss: 0.025165] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.322952] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.322952] [Correct: 1.000000]
+
+Epoch: 180
+[Train: ], [180/250: ], [Accuracy: 99.880000], [Loss: 0.025257] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.329817] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.329817] [Correct: 1.000000]
+
+Epoch: 181
+[Train: ], [181/250: ], [Accuracy: 99.920000], [Loss: 0.031228] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.325101] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.325101] [Correct: 1.000000]
+
+Epoch: 182
+[Train: ], [182/250: ], [Accuracy: 99.940000], [Loss: 0.020417] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.500000], [Loss: 0.329357] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.329357] [Correct: 1.000000]
+
+Epoch: 183
+[Train: ], [183/250: ], [Accuracy: 99.860000], [Loss: 0.019144] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 91.000000], [Loss: 0.327609] [Correct: 1.000000]
+[Test Accuracy known: 91.000000], [Loss: 0.327609] [Correct: 1.000000]
+
+Epoch: 184
+[Train: ], [184/250: ], [Accuracy: 99.860000], [Loss: 0.035535] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.900000], [Loss: 0.329570] [Correct: 1.000000]
+[Test Accuracy known: 90.900000], [Loss: 0.329570] [Correct: 1.000000]
+
+Epoch: 185
+[Train: ], [185/250: ], [Accuracy: 99.860000], [Loss: 0.025373] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.330154] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.330154] [Correct: 1.000000]
+
+Epoch: 186
+[Train: ], [186/250: ], [Accuracy: 99.940000], [Loss: 0.019514] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.327766] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.327766] [Correct: 1.000000]
+
+Epoch: 187
+[Train: ], [187/250: ], [Accuracy: 99.940000], [Loss: 0.021312] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.329575] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.329575] [Correct: 1.000000]
+
+Epoch: 188
+[Train: ], [188/250: ], [Accuracy: 99.900000], [Loss: 0.022540] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.335892] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.335892] [Correct: 1.000000]
+
+Epoch: 189
+[Train: ], [189/250: ], [Accuracy: 99.800000], [Loss: 0.036672] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.327293] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.327293] [Correct: 1.000000]
+
+Epoch: 190
+[Train: ], [190/250: ], [Accuracy: 99.880000], [Loss: 0.038723] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.100000], [Loss: 0.333775] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.333775] [Correct: 1.000000]
+
+Epoch: 191
+[Train: ], [191/250: ], [Accuracy: 99.840000], [Loss: 0.022753] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.100000], [Loss: 0.333707] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.333707] [Correct: 1.000000]
+
+Epoch: 192
+[Train: ], [192/250: ], [Accuracy: 99.860000], [Loss: 0.020118] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.600000], [Loss: 0.328365] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.328365] [Correct: 1.000000]
+
+Epoch: 193
+[Train: ], [193/250: ], [Accuracy: 99.920000], [Loss: 0.019536] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.329404] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.329404] [Correct: 1.000000]
+
+Epoch: 194
+[Train: ], [194/250: ], [Accuracy: 99.780000], [Loss: 0.021264] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.000000], [Loss: 0.337320] [Correct: 1.000000]
+[Test Accuracy known: 90.000000], [Loss: 0.337320] [Correct: 1.000000]
+
+Epoch: 195
+[Train: ], [195/250: ], [Accuracy: 99.840000], [Loss: 0.019528] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.328689] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.328689] [Correct: 1.000000]
+
+Epoch: 196
+[Train: ], [196/250: ], [Accuracy: 99.900000], [Loss: 0.024183] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.100000], [Loss: 0.329153] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.329153] [Correct: 1.000000]
+
+Epoch: 197
+[Train: ], [197/250: ], [Accuracy: 99.860000], [Loss: 0.024231] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.400000], [Loss: 0.325316] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.325316] [Correct: 1.000000]
+
+Epoch: 198
+[Train: ], [198/250: ], [Accuracy: 99.940000], [Loss: 0.020410] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.800000], [Loss: 0.322105] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.322105] [Correct: 1.000000]
+
+Epoch: 199
+[Train: ], [199/250: ], [Accuracy: 99.820000], [Loss: 0.028950] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 90.700000], [Loss: 0.336938] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.336938] [Correct: 1.000000]
+
+Epoch: 200
+[Train: ], [200/250: ], [Accuracy: 99.680000], [Loss: 0.074377] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.300000], [Loss: 0.326686] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.326686] [Correct: 1.000000]
+
+Epoch: 201
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+[Train: ], [201/250: ], [Accuracy: 99.920000], [Loss: 0.024971] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.329676] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.329676] [Correct: 1.000000]
+
+Epoch: 202
+[Train: ], [202/250: ], [Accuracy: 99.880000], [Loss: 0.020568] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.328310] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.328310] [Correct: 1.000000]
+
+Epoch: 203
+[Train: ], [203/250: ], [Accuracy: 99.940000], [Loss: 0.021040] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 91.000000], [Loss: 0.327118] [Correct: 1.000000]
+[Test Accuracy known: 91.000000], [Loss: 0.327118] [Correct: 1.000000]
+
+Epoch: 204
+[Train: ], [204/250: ], [Accuracy: 99.900000], [Loss: 0.020905] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.330452] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.330452] [Correct: 1.000000]
+
+Epoch: 205
+[Train: ], [205/250: ], [Accuracy: 99.900000], [Loss: 0.020964] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.700000], [Loss: 0.329294] [Correct: 1.000000]
+[Test Accuracy known: 90.700000], [Loss: 0.329294] [Correct: 1.000000]
+
+Epoch: 206
+[Train: ], [206/250: ], [Accuracy: 99.820000], [Loss: 0.025831] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.327295] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.327295] [Correct: 1.000000]
+
+Epoch: 207
+[Train: ], [207/250: ], [Accuracy: 99.920000], [Loss: 0.049599] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.800000], [Loss: 0.324570] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.324570] [Correct: 1.000000]
+
+Epoch: 208
+[Train: ], [208/250: ], [Accuracy: 99.900000], [Loss: 0.022448] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.600000], [Loss: 0.327276] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.327276] [Correct: 1.000000]
+
+Epoch: 209
+[Train: ], [209/250: ], [Accuracy: 99.900000], [Loss: 0.022108] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.300000], [Loss: 0.332257] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.332257] [Correct: 1.000000]
+
+Epoch: 210
+[Train: ], [210/250: ], [Accuracy: 99.880000], [Loss: 0.019235] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.327667] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.327667] [Correct: 1.000000]
+
+Epoch: 211
+[Train: ], [211/250: ], [Accuracy: 99.900000], [Loss: 0.021336] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.330697] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.330697] [Correct: 1.000000]
+
+Epoch: 212
+[Train: ], [212/250: ], [Accuracy: 99.880000], [Loss: 0.024556] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 91.100000], [Loss: 0.325389] [Correct: 1.000000]
+[Test Accuracy known: 91.100000], [Loss: 0.325389] [Correct: 1.000000]
+
+Epoch: 213
+[Train: ], [213/250: ], [Accuracy: 99.820000], [Loss: 0.025646] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 89.900000], [Loss: 0.332944] [Correct: 1.000000]
+[Test Accuracy known: 89.900000], [Loss: 0.332944] [Correct: 1.000000]
+
+Epoch: 214
+[Train: ], [214/250: ], [Accuracy: 99.900000], [Loss: 0.020301] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.300000], [Loss: 0.329922] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.329922] [Correct: 1.000000]
+
+Epoch: 215
+[Train: ], [215/250: ], [Accuracy: 99.920000], [Loss: 0.024901] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.800000], [Loss: 0.333382] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.333382] [Correct: 1.000000]
+
+Epoch: 216
+[Train: ], [216/250: ], [Accuracy: 99.940000], [Loss: 0.019795] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.334869] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.334869] [Correct: 1.000000]
+
+Epoch: 217
+[Train: ], [217/250: ], [Accuracy: 99.920000], [Loss: 0.021790] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.200000], [Loss: 0.330686] [Correct: 1.000000]
+[Test Accuracy known: 90.200000], [Loss: 0.330686] [Correct: 1.000000]
+
+Epoch: 218
+[Train: ], [218/250: ], [Accuracy: 99.940000], [Loss: 0.028781] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.200000], [Loss: 0.331307] [Correct: 1.000000]
+[Test Accuracy known: 90.200000], [Loss: 0.331307] [Correct: 1.000000]
+
+Epoch: 219
+[Train: ], [219/250: ], [Accuracy: 99.900000], [Loss: 0.029401] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.600000], [Loss: 0.328764] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.328764] [Correct: 1.000000]
+
+Epoch: 220
+[Train: ], [220/250: ], [Accuracy: 99.960000], [Loss: 0.021395] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.323344] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.323344] [Correct: 1.000000]
+
+Epoch: 221
+[Train: ], [221/250: ], [Accuracy: 99.900000], [Loss: 0.022674] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.331352] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.331352] [Correct: 1.000000]
+
+Epoch: 222
+[Train: ], [222/250: ], [Accuracy: 99.860000], [Loss: 0.021387] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.800000], [Loss: 0.326741] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.326741] [Correct: 1.000000]
+
+Epoch: 223
+[Train: ], [223/250: ], [Accuracy: 99.880000], [Loss: 0.028156] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.329066] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.329066] [Correct: 1.000000]
+
+Epoch: 224
+[Train: ], [224/250: ], [Accuracy: 99.960000], [Loss: 0.025784] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.327271] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.327271] [Correct: 1.000000]
+
+Epoch: 225
+[Train: ], [225/250: ], [Accuracy: 99.920000], [Loss: 0.022009] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.328910] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.328910] [Correct: 1.000000]
+
+Epoch: 226
+[Train: ], [226/250: ], [Accuracy: 99.940000], [Loss: 0.018867] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.328933] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.328933] [Correct: 1.000000]
+
+Epoch: 227
+[Train: ], [227/250: ], [Accuracy: 99.940000], [Loss: 0.018234] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.300000], [Loss: 0.328601] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.328601] [Correct: 1.000000]
+
+Epoch: 228
+[Train: ], [228/250: ], [Accuracy: 99.840000], [Loss: 0.036839] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.329431] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.329431] [Correct: 1.000000]
+
+Epoch: 229
+[Train: ], [229/250: ], [Accuracy: 99.880000], [Loss: 0.032401] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.800000], [Loss: 0.330207] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.330207] [Correct: 1.000000]
+
+Epoch: 230
+[Train: ], [230/250: ], [Accuracy: 99.880000], [Loss: 0.020739] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.328022] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.328022] [Correct: 1.000000]
+
+Epoch: 231
+[Train: ], [231/250: ], [Accuracy: 99.960000], [Loss: 0.018295] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.327983] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.327983] [Correct: 1.000000]
+
+Epoch: 232
+[Train: ], [232/250: ], [Accuracy: 99.940000], [Loss: 0.018552] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.300000], [Loss: 0.324981] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.324981] [Correct: 1.000000]
+
+Epoch: 233
+[Train: ], [233/250: ], [Accuracy: 99.920000], [Loss: 0.024477] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.331509] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.331509] [Correct: 1.000000]
+
+Epoch: 234
+[Train: ], [234/250: ], [Accuracy: 99.860000], [Loss: 0.019664] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.600000], [Loss: 0.325559] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.325559] [Correct: 1.000000]
+
+Epoch: 235
+[Train: ], [235/250: ], [Accuracy: 99.800000], [Loss: 0.042704] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.331026] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.331026] [Correct: 1.000000]
+
+Epoch: 236
+[Train: ], [236/250: ], [Accuracy: 99.940000], [Loss: 0.017888] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.300000], [Loss: 0.324433] [Correct: 1.000000]
+[Test Accuracy known: 90.300000], [Loss: 0.324433] [Correct: 1.000000]
+
+Epoch: 237
+[Train: ], [237/250: ], [Accuracy: 99.780000], [Loss: 0.031527] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.600000], [Loss: 0.328507] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.328507] [Correct: 1.000000]
+
+Epoch: 238
+[Train: ], [238/250: ], [Accuracy: 99.960000], [Loss: 0.025375] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.000000], [Loss: 0.330711] [Correct: 1.000000]
+[Test Accuracy known: 90.000000], [Loss: 0.330711] [Correct: 1.000000]
+
+Epoch: 239
+[Train: ], [239/250: ], [Accuracy: 99.940000], [Loss: 0.030834] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.200000], [Loss: 0.326093] [Correct: 1.000000]
+[Test Accuracy known: 90.200000], [Loss: 0.326093] [Correct: 1.000000]
+
+Epoch: 240
+[Train: ], [240/250: ], [Accuracy: 99.820000], [Loss: 0.021688] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.327177] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.327177] [Correct: 1.000000]
+
+Epoch: 241
+[Train: ], [241/250: ], [Accuracy: 99.880000], [Loss: 0.019970] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.328219] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.328219] [Correct: 1.000000]
+
+Epoch: 242
+[Train: ], [242/250: ], [Accuracy: 99.860000], [Loss: 0.021994] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.325758] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.325758] [Correct: 1.000000]
+
+Epoch: 243
+[Train: ], [243/250: ], [Accuracy: 99.920000], [Loss: 0.018840] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.326238] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.326238] [Correct: 1.000000]
+
+Epoch: 244
+[Train: ], [244/250: ], [Accuracy: 99.920000], [Loss: 0.035298] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.500000], [Loss: 0.329227] [Correct: 1.000000]
+[Test Accuracy known: 90.500000], [Loss: 0.329227] [Correct: 1.000000]
+
+Epoch: 245
+[Train: ], [245/250: ], [Accuracy: 99.780000], [Loss: 0.027195] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.800000], [Loss: 0.325440] [Correct: 1.000000]
+[Test Accuracy known: 90.800000], [Loss: 0.325440] [Correct: 1.000000]
+
+Epoch: 246
+[Train: ], [246/250: ], [Accuracy: 99.940000], [Loss: 0.019287] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.400000], [Loss: 0.326046] [Correct: 1.000000]
+[Test Accuracy known: 90.400000], [Loss: 0.326046] [Correct: 1.000000]
+
+Epoch: 247
+[Train: ], [247/250: ], [Accuracy: 99.900000], [Loss: 0.019413] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.100000], [Loss: 0.333371] [Correct: 1.000000]
+[Test Accuracy known: 90.100000], [Loss: 0.333371] [Correct: 1.000000]
+
+Epoch: 248
+[Train: ], [248/250: ], [Accuracy: 99.880000], [Loss: 0.025527] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.600000], [Loss: 0.327381] [Correct: 1.000000]
+[Test Accuracy known: 90.600000], [Loss: 0.327381] [Correct: 1.000000]
+
+Epoch: 249
+[Train: ], [249/250: ], [Accuracy: 99.860000], [Loss: 0.021831] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 90.900000], [Loss: 0.326235] [Correct: 1.000000]
+[Test Accuracy known: 90.900000], [Loss: 0.326235] [Correct: 1.000000]
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-tSNE-fdm/ckpt_task0.pth
+Task: 0  Test_accuracy: 91.4
+Training Task :---1
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-tSNE-fdm/ckpt_task0.pth
+
+Epoch: 0
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:783: FutureWarning: The default initialization in TSNE will change from 'random' to 'pca' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/sklearn/manifold/_t_sne.py:793: FutureWarning: The default learning rate in TSNE will change from 200.0 to 'auto' in 1.2.
+  FutureWarning,
+/opt/conda/lib/python3.7/site-packages/seaborn/_decorators.py:43: FutureWarning: Pass the following variables as keyword args: x, y. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
+  FutureWarning
+[Train: ], [0/250: ], [Accuracy: 41.280000], [Loss: 2.125367] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 18.300000], [Loss: 0.996391] [Correct: 0.254000]
+Saving..
+Traceback (most recent call last):
+  File "cifar100-5_816_class_incremental_tSNE.py", line 680, in <module>
+    #             task_model[m].eval()
+TypeError: test_known() missing 1 required positional argument: 'epoch'

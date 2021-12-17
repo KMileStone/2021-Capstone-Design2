@@ -1,0 +1,178 @@
+start time : 1638880712.8058236
+
+Files already downloaded and verified
+Files already downloaded and verified
+0
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+1
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+2
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+3
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+4
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+5
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+6
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+7
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+8
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+9
+[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task0.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task1.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task2.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task3.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task4.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task5.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task6.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task7.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task8.pth
+==> Resuming from checkpoint..
+ckpt816/cifar100-10-npc-entropy-check-save/ckpt_task9.pth
+#######################################################
+Testing Task :---0
+[Test Accuracy: 91.200000], [Loss: 0.382907] [Correct: 1.000000]
+acc: 91.2  Correct:  1.0
+#######################################################
+Testing Task :---0
+[Test Accuracy: 52.700000], [Loss: 0.309014] [Correct: 0.559000]
+Testing Task :---1
+[Test Accuracy: 78.900000], [Loss: 0.340469] [Correct: 0.857000]
+acc: 65.80000000000001  Correct:  0.708
+#######################################################
+Testing Task :---0
+[Test Accuracy: 35.100000], [Loss: 0.257662] [Correct: 0.365000]
+Testing Task :---1
+[Test Accuracy: 64.300000], [Loss: 0.270024] [Correct: 0.683000]
+Testing Task :---2
+[Test Accuracy: 74.700000], [Loss: 0.255951] [Correct: 0.787000]
+acc: 58.03333333333334  Correct:  0.6116666666666667
+#######################################################
+Testing Task :---0
+[Test Accuracy: 26.000000], [Loss: 0.222679] [Correct: 0.268000]
+Testing Task :---1
+[Test Accuracy: 45.400000], [Loss: 0.263753] [Correct: 0.479000]
+Testing Task :---2
+[Test Accuracy: 67.600000], [Loss: 0.236920] [Correct: 0.706000]
+Testing Task :---3
+[Test Accuracy: 63.400000], [Loss: 0.194387] [Correct: 0.659000]
+acc: 50.6  Correct:  0.528
+#######################################################
+Testing Task :---0
+[Test Accuracy: 16.400000], [Loss: 0.227525] [Correct: 0.169000]
+Testing Task :---1
+[Test Accuracy: 38.500000], [Loss: 0.187046] [Correct: 0.397000]
+Testing Task :---2
+[Test Accuracy: 53.400000], [Loss: 0.208553] [Correct: 0.552000]
+Testing Task :---3
+[Test Accuracy: 57.000000], [Loss: 0.185633] [Correct: 0.591000]
+Testing Task :---4
+[Test Accuracy: 62.900000], [Loss: 0.228321] [Correct: 0.657000]
+acc: 45.64  Correct:  0.4732
+#######################################################
+Testing Task :---0
+[Test Accuracy: 11.200000], [Loss: 0.167086] [Correct: 0.114000]
+Testing Task :---1
+[Test Accuracy: 31.300000], [Loss: 0.154857] [Correct: 0.320000]
+Testing Task :---2
+[Test Accuracy: 46.600000], [Loss: 0.215384] [Correct: 0.483000]
+Testing Task :---3
+[Test Accuracy: 49.400000], [Loss: 0.164368] [Correct: 0.509000]
+Testing Task :---4
+[Test Accuracy: 56.700000], [Loss: 0.199993] [Correct: 0.586000]
+Testing Task :---5
+[Test Accuracy: 54.800000], [Loss: 0.182017] [Correct: 0.567000]
+acc: 41.666666666666664  Correct:  0.4298333333333333
+#######################################################
+Testing Task :---0
+[Test Accuracy: 8.000000], [Loss: 0.185597] [Correct: 0.082000]
+Testing Task :---1
+[Test Accuracy: 25.900000], [Loss: 0.127829] [Correct: 0.263000]
+Testing Task :---2
+[Test Accuracy: 40.600000], [Loss: 0.226466] [Correct: 0.422000]
+Testing Task :---3
+[Test Accuracy: 43.400000], [Loss: 0.161089] [Correct: 0.447000]
+Testing Task :---4
+[Test Accuracy: 52.400000], [Loss: 0.178624] [Correct: 0.538000]
+Testing Task :---5
+[Test Accuracy: 50.100000], [Loss: 0.186432] [Correct: 0.519000]
+Testing Task :---6
+[Test Accuracy: 57.300000], [Loss: 0.171998] [Correct: 0.590000]
+acc: 39.67142857142857  Correct:  0.4087142857142857
+#######################################################
+Testing Task :---0
+[Test Accuracy: 6.600000], [Loss: 0.151897] [Correct: 0.067000]
+Testing Task :---1
+[Test Accuracy: 23.000000], [Loss: 0.136359] [Correct: 0.234000]
+Testing Task :---2
+[Test Accuracy: 37.400000], [Loss: 0.223582] [Correct: 0.388000]
+Testing Task :---3
+[Test Accuracy: 39.400000], [Loss: 0.142590] [Correct: 0.404000]
+Testing Task :---4
+[Test Accuracy: 48.400000], [Loss: 0.187084] [Correct: 0.498000]
+Testing Task :---5
+[Test Accuracy: 41.000000], [Loss: 0.202968] [Correct: 0.427000]
+Testing Task :---6
+[Test Accuracy: 47.600000], [Loss: 0.129798] [Correct: 0.485000]
+Testing Task :---7
+[Test Accuracy: 50.400000], [Loss: 0.125558] [Correct: 0.515000]
+acc: 36.725  Correct:  0.37725
+#######################################################
+Testing Task :---0
+[Test Accuracy: 4.800000], [Loss: 0.164849] [Correct: 0.049000]
+Testing Task :---1
+[Test Accuracy: 19.200000], [Loss: 0.136040] [Correct: 0.195000]
+Testing Task :---2
+[Test Accuracy: 32.300000], [Loss: 0.180900] [Correct: 0.332000]
+Testing Task :---3
+[Test Accuracy: 33.900000], [Loss: 0.129467] [Correct: 0.346000]
+Testing Task :---4
+[Test Accuracy: 42.600000], [Loss: 0.170617] [Correct: 0.437000]
+Testing Task :---5
+[Test Accuracy: 35.500000], [Loss: 0.172233] [Correct: 0.367000]
+Testing Task :---6
+[Test Accuracy: 41.500000], [Loss: 0.118979] [Correct: 0.422000]
+Testing Task :---7
+[Test Accuracy: 44.200000], [Loss: 0.118206] [Correct: 0.451000]
+Testing Task :---8
+[Test Accuracy: 54.900000], [Loss: 0.203925] [Correct: 0.570000]
+acc: 34.32222222222222  Correct:  0.3521111111111111
+#######################################################
+Testing Task :---0
+[Test Accuracy: 3.900000], [Loss: 0.176451] [Correct: 0.040000]
+Testing Task :---1
+[Test Accuracy: 15.800000], [Loss: 0.158604] [Correct: 0.161000]
+Testing Task :---2
+[Test Accuracy: 28.600000], [Loss: 0.182385] [Correct: 0.294000]
+Testing Task :---3
+[Test Accuracy: 26.100000], [Loss: 0.146427] [Correct: 0.268000]
+Testing Task :---4
+[Test Accuracy: 34.600000], [Loss: 0.171098] [Correct: 0.355000]
+Testing Task :---5
+[Test Accuracy: 27.200000], [Loss: 0.100963] [Correct: 0.276000]
+Testing Task :---6
+[Test Accuracy: 35.500000], [Loss: 0.101454] [Correct: 0.360000]
+Testing Task :---7
+[Test Accuracy: 40.400000], [Loss: 0.113816] [Correct: 0.412000]
+Testing Task :---8
+[Test Accuracy: 47.700000], [Loss: 0.219192] [Correct: 0.497000]
+Testing Task :---9
+[Test Accuracy: 52.200000], [Loss: 0.126523] [Correct: 0.531000]
+acc: 31.2  Correct:  0.3194
+[91.2        65.8        58.03333333 50.6        45.64       41.66666667
+ 39.67142857 36.725      34.32222222 31.2       ]
+
+end time : 1638881272.129916

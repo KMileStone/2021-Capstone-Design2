@@ -1,0 +1,1144 @@
+Files already downloaded and verified
+Files already downloaded and verified
+0
+[20, 20, 20, 20, 20]
+1
+[20, 20, 20, 20, 20]
+2
+[20, 20, 20, 20, 20]
+3
+[20, 20, 20, 20, 20]
+4
+[20, 20, 20, 20, 20]
+Training Task :---0
+
+Epoch: 0
+[Train: ], [0/250: ], [Accuracy: 13.150000], [Loss: 2.975229] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 17.900000], [Loss: 3.081664] [Correct: 1.000000]
+Saving..
+
+Epoch: 1
+[Train: ], [1/250: ], [Accuracy: 21.610000], [Loss: 2.899597] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 21.150000], [Loss: 3.055510] [Correct: 1.000000]
+Saving..
+
+Epoch: 2
+[Train: ], [2/250: ], [Accuracy: 24.530000], [Loss: 2.868393] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 22.300000], [Loss: 3.040088] [Correct: 1.000000]
+Saving..
+
+Epoch: 3
+[Train: ], [3/250: ], [Accuracy: 28.010000], [Loss: 2.833340] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 28.300000], [Loss: 2.976611] [Correct: 1.000000]
+Saving..
+
+Epoch: 4
+[Train: ], [4/250: ], [Accuracy: 31.870000], [Loss: 2.797988] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 34.550000], [Loss: 2.913279] [Correct: 1.000000]
+Saving..
+
+Epoch: 5
+[Train: ], [5/250: ], [Accuracy: 34.790000], [Loss: 2.767455] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 31.300000], [Loss: 2.949669] [Correct: 1.000000]
+
+Epoch: 6
+[Train: ], [6/250: ], [Accuracy: 33.060000], [Loss: 2.783731] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 35.650000], [Loss: 2.903632] [Correct: 1.000000]
+Saving..
+
+Epoch: 7
+[Train: ], [7/250: ], [Accuracy: 36.250000], [Loss: 2.753232] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 30.400000], [Loss: 2.956650] [Correct: 1.000000]
+
+Epoch: 8
+[Train: ], [8/250: ], [Accuracy: 37.360000], [Loss: 2.743311] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 36.600000], [Loss: 2.893193] [Correct: 1.000000]
+Saving..
+
+Epoch: 9
+[Train: ], [9/250: ], [Accuracy: 38.440000], [Loss: 2.734337] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 36.400000], [Loss: 2.889895] [Correct: 1.000000]
+
+Epoch: 10
+[Train: ], [10/250: ], [Accuracy: 39.590000], [Loss: 2.716796] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 35.550000], [Loss: 2.899738] [Correct: 1.000000]
+
+Epoch: 11
+[Train: ], [11/250: ], [Accuracy: 39.280000], [Loss: 2.721155] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 36.650000], [Loss: 2.890959] [Correct: 1.000000]
+Saving..
+
+Epoch: 12
+[Train: ], [12/250: ], [Accuracy: 39.320000], [Loss: 2.720429] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 39.550000], [Loss: 2.861328] [Correct: 1.000000]
+Saving..
+
+Epoch: 13
+[Train: ], [13/250: ], [Accuracy: 41.250000], [Loss: 2.700572] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 42.550000], [Loss: 2.834644] [Correct: 1.000000]
+Saving..
+
+Epoch: 14
+[Train: ], [14/250: ], [Accuracy: 41.510000], [Loss: 2.697764] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 37.700000], [Loss: 2.875989] [Correct: 1.000000]
+
+Epoch: 15
+[Train: ], [15/250: ], [Accuracy: 43.190000], [Loss: 2.681275] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 41.750000], [Loss: 2.832737] [Correct: 1.000000]
+
+Epoch: 16
+[Train: ], [16/250: ], [Accuracy: 44.400000], [Loss: 2.671066] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 44.600000], [Loss: 2.806387] [Correct: 1.000000]
+Saving..
+
+Epoch: 17
+[Train: ], [17/250: ], [Accuracy: 45.990000], [Loss: 2.654835] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 44.500000], [Loss: 2.813545] [Correct: 1.000000]
+
+Epoch: 18
+[Train: ], [18/250: ], [Accuracy: 44.230000], [Loss: 2.673941] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 41.000000], [Loss: 2.839109] [Correct: 1.000000]
+
+Epoch: 19
+[Train: ], [19/250: ], [Accuracy: 45.750000], [Loss: 2.655874] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 42.750000], [Loss: 2.826596] [Correct: 1.000000]
+
+Epoch: 20
+[Train: ], [20/250: ], [Accuracy: 47.180000], [Loss: 2.644103] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.400000], [Loss: 2.787180] [Correct: 1.000000]
+Saving..
+
+Epoch: 21
+[Train: ], [21/250: ], [Accuracy: 47.320000], [Loss: 2.637037] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 41.800000], [Loss: 2.832986] [Correct: 1.000000]
+
+Epoch: 22
+[Train: ], [22/250: ], [Accuracy: 47.730000], [Loss: 2.635695] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.250000], [Loss: 2.789390] [Correct: 1.000000]
+
+Epoch: 23
+[Train: ], [23/250: ], [Accuracy: 48.730000], [Loss: 2.626831] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.000000], [Loss: 2.786053] [Correct: 1.000000]
+Saving..
+
+Epoch: 24
+[Train: ], [24/250: ], [Accuracy: 48.160000], [Loss: 2.633263] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 44.050000], [Loss: 2.804815] [Correct: 1.000000]
+
+Epoch: 25
+[Train: ], [25/250: ], [Accuracy: 49.670000], [Loss: 2.617569] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.200000], [Loss: 2.788788] [Correct: 1.000000]
+
+Epoch: 26
+[Train: ], [26/250: ], [Accuracy: 48.670000], [Loss: 2.627435] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.200000], [Loss: 2.770702] [Correct: 1.000000]
+Saving..
+
+Epoch: 27
+[Train: ], [27/250: ], [Accuracy: 49.460000], [Loss: 2.618879] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 45.150000], [Loss: 2.802079] [Correct: 1.000000]
+
+Epoch: 28
+[Train: ], [28/250: ], [Accuracy: 50.750000], [Loss: 2.606017] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.200000], [Loss: 2.761156] [Correct: 1.000000]
+Saving..
+
+Epoch: 29
+[Train: ], [29/250: ], [Accuracy: 51.700000], [Loss: 2.596123] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.250000], [Loss: 2.785568] [Correct: 1.000000]
+
+Epoch: 30
+[Train: ], [30/250: ], [Accuracy: 51.050000], [Loss: 2.606331] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.100000], [Loss: 2.754275] [Correct: 1.000000]
+
+Epoch: 31
+[Train: ], [31/250: ], [Accuracy: 51.680000], [Loss: 2.599431] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.050000], [Loss: 2.794994] [Correct: 1.000000]
+
+Epoch: 32
+[Train: ], [32/250: ], [Accuracy: 52.060000], [Loss: 2.591470] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.050000], [Loss: 2.752281] [Correct: 1.000000]
+Saving..
+
+Epoch: 33
+[Train: ], [33/250: ], [Accuracy: 53.750000], [Loss: 2.577429] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.450000], [Loss: 2.784935] [Correct: 1.000000]
+
+Epoch: 34
+[Train: ], [34/250: ], [Accuracy: 52.240000], [Loss: 2.593190] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.350000], [Loss: 2.770743] [Correct: 1.000000]
+
+Epoch: 35
+[Train: ], [35/250: ], [Accuracy: 53.360000], [Loss: 2.579491] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.400000], [Loss: 2.742757] [Correct: 1.000000]
+Saving..
+
+Epoch: 36
+[Train: ], [36/250: ], [Accuracy: 53.690000], [Loss: 2.578179] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.550000], [Loss: 2.787591] [Correct: 1.000000]
+
+Epoch: 37
+[Train: ], [37/250: ], [Accuracy: 53.720000], [Loss: 2.572962] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.850000], [Loss: 2.760673] [Correct: 1.000000]
+
+Epoch: 38
+[Train: ], [38/250: ], [Accuracy: 53.550000], [Loss: 2.576763] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.800000], [Loss: 2.722781] [Correct: 1.000000]
+Saving..
+
+Epoch: 39
+[Train: ], [39/250: ], [Accuracy: 55.710000], [Loss: 2.556390] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.000000], [Loss: 2.731844] [Correct: 1.000000]
+
+Epoch: 40
+[Train: ], [40/250: ], [Accuracy: 54.960000], [Loss: 2.561298] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 51.900000], [Loss: 2.734377] [Correct: 1.000000]
+
+Epoch: 41
+[Train: ], [41/250: ], [Accuracy: 51.250000], [Loss: 2.598517] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 45.200000], [Loss: 2.804164] [Correct: 1.000000]
+
+Epoch: 42
+[Train: ], [42/250: ], [Accuracy: 54.560000], [Loss: 2.567063] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 51.950000], [Loss: 2.735321] [Correct: 1.000000]
+
+Epoch: 43
+[Train: ], [43/250: ], [Accuracy: 53.570000], [Loss: 2.579637] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 43.400000], [Loss: 2.820669] [Correct: 1.000000]
+
+Epoch: 44
+[Train: ], [44/250: ], [Accuracy: 54.450000], [Loss: 2.569024] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 51.000000], [Loss: 2.740051] [Correct: 1.000000]
+
+Epoch: 45
+[Train: ], [45/250: ], [Accuracy: 55.850000], [Loss: 2.556486] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.800000], [Loss: 2.717819] [Correct: 1.000000]
+Saving..
+
+Epoch: 46
+[Train: ], [46/250: ], [Accuracy: 54.110000], [Loss: 2.569949] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.900000], [Loss: 2.771238] [Correct: 1.000000]
+
+Epoch: 47
+[Train: ], [47/250: ], [Accuracy: 54.010000], [Loss: 2.573424] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.300000], [Loss: 2.728093] [Correct: 1.000000]
+
+Epoch: 48
+[Train: ], [48/250: ], [Accuracy: 54.170000], [Loss: 2.571602] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 43.000000], [Loss: 2.814624] [Correct: 1.000000]
+
+Epoch: 49
+[Train: ], [49/250: ], [Accuracy: 54.020000], [Loss: 2.572017] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.300000], [Loss: 2.745832] [Correct: 1.000000]
+
+Epoch: 50
+[Train: ], [50/250: ], [Accuracy: 53.610000], [Loss: 2.575733] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.700000], [Loss: 2.775862] [Correct: 1.000000]
+
+Epoch: 51
+[Train: ], [51/250: ], [Accuracy: 54.350000], [Loss: 2.568319] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.850000], [Loss: 2.778117] [Correct: 1.000000]
+
+Epoch: 52
+[Train: ], [52/250: ], [Accuracy: 53.700000], [Loss: 2.571880] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.350000], [Loss: 2.752702] [Correct: 1.000000]
+
+Epoch: 53
+[Train: ], [53/250: ], [Accuracy: 54.350000], [Loss: 2.565832] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 44.750000], [Loss: 2.802197] [Correct: 1.000000]
+
+Epoch: 54
+[Train: ], [54/250: ], [Accuracy: 53.050000], [Loss: 2.582318] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.000000], [Loss: 2.759399] [Correct: 1.000000]
+
+Epoch: 55
+[Train: ], [55/250: ], [Accuracy: 54.520000], [Loss: 2.563067] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.500000], [Loss: 2.713808] [Correct: 1.000000]
+Saving..
+
+Epoch: 56
+[Train: ], [56/250: ], [Accuracy: 52.000000], [Loss: 2.591595] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 45.400000], [Loss: 2.798600] [Correct: 1.000000]
+
+Epoch: 57
+[Train: ], [57/250: ], [Accuracy: 53.340000], [Loss: 2.571282] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.200000], [Loss: 2.750188] [Correct: 1.000000]
+
+Epoch: 58
+[Train: ], [58/250: ], [Accuracy: 53.770000], [Loss: 2.566235] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.450000], [Loss: 2.713968] [Correct: 1.000000]
+
+Epoch: 59
+[Train: ], [59/250: ], [Accuracy: 53.420000], [Loss: 2.571786] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.850000], [Loss: 2.777750] [Correct: 1.000000]
+
+Epoch: 60
+[Train: ], [60/250: ], [Accuracy: 51.230000], [Loss: 2.593483] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.850000], [Loss: 2.756186] [Correct: 1.000000]
+
+Epoch: 61
+[Train: ], [61/250: ], [Accuracy: 52.820000], [Loss: 2.576109] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.350000], [Loss: 2.761268] [Correct: 1.000000]
+
+Epoch: 62
+[Train: ], [62/250: ], [Accuracy: 51.000000], [Loss: 2.593075] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 45.400000], [Loss: 2.798086] [Correct: 1.000000]
+
+Epoch: 63
+[Train: ], [63/250: ], [Accuracy: 49.220000], [Loss: 2.605046] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.050000], [Loss: 2.769346] [Correct: 1.000000]
+
+Epoch: 64
+[Train: ], [64/250: ], [Accuracy: 51.470000], [Loss: 2.582539] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.700000], [Loss: 2.770447] [Correct: 1.000000]
+
+Epoch: 65
+[Train: ], [65/250: ], [Accuracy: 51.410000], [Loss: 2.575312] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.600000], [Loss: 2.721657] [Correct: 1.000000]
+
+Epoch: 66
+[Train: ], [66/250: ], [Accuracy: 53.390000], [Loss: 2.557963] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.100000], [Loss: 2.703839] [Correct: 1.000000]
+
+Epoch: 67
+[Train: ], [67/250: ], [Accuracy: 51.130000], [Loss: 2.579072] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.600000], [Loss: 2.711926] [Correct: 1.000000]
+
+Epoch: 68
+[Train: ], [68/250: ], [Accuracy: 52.540000], [Loss: 2.565305] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.350000], [Loss: 2.717671] [Correct: 1.000000]
+
+Epoch: 69
+[Train: ], [69/250: ], [Accuracy: 53.000000], [Loss: 2.557034] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.050000], [Loss: 2.731832] [Correct: 1.000000]
+
+Epoch: 70
+[Train: ], [70/250: ], [Accuracy: 53.510000], [Loss: 2.552356] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.100000], [Loss: 2.730383] [Correct: 1.000000]
+
+Epoch: 71
+[Train: ], [71/250: ], [Accuracy: 49.660000], [Loss: 2.588759] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.550000], [Loss: 2.717552] [Correct: 1.000000]
+
+Epoch: 72
+[Train: ], [72/250: ], [Accuracy: 54.850000], [Loss: 2.531209] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.900000], [Loss: 2.731778] [Correct: 1.000000]
+
+Epoch: 73
+[Train: ], [73/250: ], [Accuracy: 53.410000], [Loss: 2.547366] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.550000], [Loss: 2.730695] [Correct: 1.000000]
+
+Epoch: 74
+[Train: ], [74/250: ], [Accuracy: 51.820000], [Loss: 2.558539] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.550000], [Loss: 2.741949] [Correct: 1.000000]
+
+Epoch: 75
+[Train: ], [75/250: ], [Accuracy: 52.910000], [Loss: 2.551101] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.700000], [Loss: 2.760982] [Correct: 1.000000]
+
+Epoch: 76
+[Train: ], [76/250: ], [Accuracy: 52.350000], [Loss: 2.563738] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.150000], [Loss: 2.721951] [Correct: 1.000000]
+
+Epoch: 77
+[Train: ], [77/250: ], [Accuracy: 52.080000], [Loss: 2.563520] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.200000], [Loss: 2.712436] [Correct: 1.000000]
+
+Epoch: 78
+[Train: ], [78/250: ], [Accuracy: 53.260000], [Loss: 2.551843] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.900000], [Loss: 2.728876] [Correct: 1.000000]
+
+Epoch: 79
+[Train: ], [79/250: ], [Accuracy: 54.200000], [Loss: 2.539289] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.200000], [Loss: 2.733471] [Correct: 1.000000]
+
+Epoch: 80
+[Train: ], [80/250: ], [Accuracy: 54.170000], [Loss: 2.544675] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.700000], [Loss: 2.677578] [Correct: 1.000000]
+Saving..
+
+Epoch: 81
+[Train: ], [81/250: ], [Accuracy: 53.390000], [Loss: 2.540793] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 47.650000], [Loss: 2.734535] [Correct: 1.000000]
+
+Epoch: 82
+[Train: ], [82/250: ], [Accuracy: 50.190000], [Loss: 2.573501] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 50.750000], [Loss: 2.722733] [Correct: 1.000000]
+
+Epoch: 83
+[Train: ], [83/250: ], [Accuracy: 53.450000], [Loss: 2.544611] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 51.950000], [Loss: 2.682913] [Correct: 1.000000]
+
+Epoch: 84
+[Train: ], [84/250: ], [Accuracy: 51.930000], [Loss: 2.556877] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 51.650000], [Loss: 2.719498] [Correct: 1.000000]
+
+Epoch: 85
+[Train: ], [85/250: ], [Accuracy: 54.320000], [Loss: 2.530563] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 56.350000], [Loss: 2.670054] [Correct: 1.000000]
+Saving..
+
+Epoch: 86
+[Train: ], [86/250: ], [Accuracy: 52.500000], [Loss: 2.551808] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 46.900000], [Loss: 2.781932] [Correct: 1.000000]
+
+Epoch: 87
+[Train: ], [87/250: ], [Accuracy: 53.260000], [Loss: 2.549899] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 49.450000], [Loss: 2.725095] [Correct: 1.000000]
+
+Epoch: 88
+[Train: ], [88/250: ], [Accuracy: 53.000000], [Loss: 2.539845] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 51.450000], [Loss: 2.701469] [Correct: 1.000000]
+
+Epoch: 89
+[Train: ], [89/250: ], [Accuracy: 51.540000], [Loss: 2.561164] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 52.750000], [Loss: 2.704419] [Correct: 1.000000]
+
+Epoch: 90
+[Train: ], [90/250: ], [Accuracy: 52.980000], [Loss: 2.549945] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 48.700000], [Loss: 2.751682] [Correct: 1.000000]
+
+Epoch: 91
+[Train: ], [91/250: ], [Accuracy: 55.200000], [Loss: 2.532449] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.700000], [Loss: 2.674510] [Correct: 1.000000]
+
+Epoch: 92
+[Train: ], [92/250: ], [Accuracy: 53.970000], [Loss: 2.541097] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 56.150000], [Loss: 2.666219] [Correct: 1.000000]
+
+Epoch: 93
+[Train: ], [93/250: ], [Accuracy: 52.750000], [Loss: 2.544793] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.600000], [Loss: 2.687976] [Correct: 1.000000]
+
+Epoch: 94
+[Train: ], [94/250: ], [Accuracy: 53.460000], [Loss: 2.540405] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 55.400000], [Loss: 2.688902] [Correct: 1.000000]
+
+Epoch: 95
+[Train: ], [95/250: ], [Accuracy: 55.510000], [Loss: 2.524194] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 58.000000], [Loss: 2.667605] [Correct: 1.000000]
+Saving..
+
+Epoch: 96
+[Train: ], [96/250: ], [Accuracy: 55.850000], [Loss: 2.519571] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 56.100000], [Loss: 2.683503] [Correct: 1.000000]
+
+Epoch: 97
+[Train: ], [97/250: ], [Accuracy: 54.850000], [Loss: 2.531657] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 53.550000], [Loss: 2.695820] [Correct: 1.000000]
+
+Epoch: 98
+[Train: ], [98/250: ], [Accuracy: 54.240000], [Loss: 2.529566] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 54.950000], [Loss: 2.665899] [Correct: 1.000000]
+
+Epoch: 99
+[Train: ], [99/250: ], [Accuracy: 54.940000], [Loss: 2.526697] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 56.000000], [Loss: 2.672129] [Correct: 1.000000]
+
+Epoch: 100
+[Train: ], [100/250: ], [Accuracy: 58.340000], [Loss: 2.495404] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.800000], [Loss: 2.593144] [Correct: 1.000000]
+Saving..
+
+Epoch: 101
+[Train: ], [101/250: ], [Accuracy: 60.930000], [Loss: 2.460667] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 62.500000], [Loss: 2.586436] [Correct: 1.000000]
+Saving..
+
+Epoch: 102
+[Train: ], [102/250: ], [Accuracy: 61.750000], [Loss: 2.446809] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.850000], [Loss: 2.580365] [Correct: 1.000000]
+Saving..
+
+Epoch: 103
+[Train: ], [103/250: ], [Accuracy: 61.990000], [Loss: 2.441896] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.100000], [Loss: 2.579667] [Correct: 1.000000]
+
+Epoch: 104
+[Train: ], [104/250: ], [Accuracy: 61.930000], [Loss: 2.435348] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.900000], [Loss: 2.574263] [Correct: 1.000000]
+Saving..
+
+Epoch: 105
+[Train: ], [105/250: ], [Accuracy: 62.420000], [Loss: 2.430228] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.800000], [Loss: 2.572294] [Correct: 1.000000]
+
+Epoch: 106
+[Train: ], [106/250: ], [Accuracy: 62.460000], [Loss: 2.426818] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 64.500000], [Loss: 2.568929] [Correct: 1.000000]
+Saving..
+
+Epoch: 107
+[Train: ], [107/250: ], [Accuracy: 62.830000], [Loss: 2.424389] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.900000], [Loss: 2.561980] [Correct: 1.000000]
+
+Epoch: 108
+[Train: ], [108/250: ], [Accuracy: 61.840000], [Loss: 2.421195] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.750000], [Loss: 2.565091] [Correct: 1.000000]
+
+Epoch: 109
+[Train: ], [109/250: ], [Accuracy: 61.580000], [Loss: 2.416950] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 64.100000], [Loss: 2.560836] [Correct: 1.000000]
+
+Epoch: 110
+[Train: ], [110/250: ], [Accuracy: 60.500000], [Loss: 2.409195] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 64.900000], [Loss: 2.555531] [Correct: 1.000000]
+Saving..
+
+Epoch: 111
+[Train: ], [111/250: ], [Accuracy: 60.970000], [Loss: 2.399834] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.550000], [Loss: 2.546679] [Correct: 1.000000]
+
+Epoch: 112
+[Train: ], [112/250: ], [Accuracy: 60.920000], [Loss: 2.398585] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.900000], [Loss: 2.549874] [Correct: 1.000000]
+
+Epoch: 113
+[Train: ], [113/250: ], [Accuracy: 60.820000], [Loss: 2.395996] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.700000], [Loss: 2.546240] [Correct: 1.000000]
+
+Epoch: 114
+[Train: ], [114/250: ], [Accuracy: 60.150000], [Loss: 2.388885] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 62.650000], [Loss: 2.536465] [Correct: 1.000000]
+
+Epoch: 115
+[Train: ], [115/250: ], [Accuracy: 60.160000], [Loss: 2.382772] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 64.050000], [Loss: 2.535951] [Correct: 1.000000]
+
+Epoch: 116
+[Train: ], [116/250: ], [Accuracy: 59.370000], [Loss: 2.384666] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 62.150000], [Loss: 2.544707] [Correct: 1.000000]
+
+Epoch: 117
+[Train: ], [117/250: ], [Accuracy: 58.110000], [Loss: 2.381994] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.700000], [Loss: 2.541868] [Correct: 1.000000]
+
+Epoch: 118
+[Train: ], [118/250: ], [Accuracy: 58.350000], [Loss: 2.379514] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 62.300000], [Loss: 2.543717] [Correct: 1.000000]
+
+Epoch: 119
+[Train: ], [119/250: ], [Accuracy: 58.420000], [Loss: 2.378741] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 63.350000], [Loss: 2.539766] [Correct: 1.000000]
+
+Epoch: 120
+[Train: ], [120/250: ], [Accuracy: 59.040000], [Loss: 2.372783] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.950000], [Loss: 2.537196] [Correct: 1.000000]
+
+Epoch: 121
+[Train: ], [121/250: ], [Accuracy: 58.200000], [Loss: 2.374561] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 60.950000], [Loss: 2.540560] [Correct: 1.000000]
+
+Epoch: 122
+[Train: ], [122/250: ], [Accuracy: 57.010000], [Loss: 2.375264] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.650000], [Loss: 2.539297] [Correct: 1.000000]
+
+Epoch: 123
+[Train: ], [123/250: ], [Accuracy: 56.580000], [Loss: 2.372794] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.100000], [Loss: 2.533771] [Correct: 1.000000]
+
+Epoch: 124
+[Train: ], [124/250: ], [Accuracy: 56.700000], [Loss: 2.372468] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.350000], [Loss: 2.538772] [Correct: 1.000000]
+
+Epoch: 125
+[Train: ], [125/250: ], [Accuracy: 56.550000], [Loss: 2.357284] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 60.600000], [Loss: 2.518726] [Correct: 1.000000]
+
+Epoch: 126
+[Train: ], [126/250: ], [Accuracy: 56.310000], [Loss: 2.349809] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 59.150000], [Loss: 2.507890] [Correct: 1.000000]
+
+Epoch: 127
+[Train: ], [127/250: ], [Accuracy: 56.440000], [Loss: 2.342866] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 61.350000], [Loss: 2.504917] [Correct: 1.000000]
+
+Epoch: 128
+[Train: ], [128/250: ], [Accuracy: 55.450000], [Loss: 2.336737] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 59.500000], [Loss: 2.500308] [Correct: 1.000000]
+
+Epoch: 129
+[Train: ], [129/250: ], [Accuracy: 55.170000], [Loss: 2.337108] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 57.850000], [Loss: 2.510016] [Correct: 1.000000]
+
+Epoch: 130
+[Train: ], [130/250: ], [Accuracy: 53.500000], [Loss: 2.334020] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 55.700000], [Loss: 2.508459] [Correct: 1.000000]
+
+Epoch: 131
+[Train: ], [131/250: ], [Accuracy: 54.650000], [Loss: 2.330501] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.150000], [Loss: 2.508745] [Correct: 1.000000]
+
+Epoch: 132
+[Train: ], [132/250: ], [Accuracy: 53.910000], [Loss: 2.331182] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 57.250000], [Loss: 2.512620] [Correct: 1.000000]
+
+Epoch: 133
+[Train: ], [133/250: ], [Accuracy: 52.130000], [Loss: 2.330984] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.750000], [Loss: 2.503767] [Correct: 1.000000]
+
+Epoch: 134
+[Train: ], [134/250: ], [Accuracy: 53.330000], [Loss: 2.328810] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.300000], [Loss: 2.511563] [Correct: 1.000000]
+
+Epoch: 135
+[Train: ], [135/250: ], [Accuracy: 53.530000], [Loss: 2.329732] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 57.950000], [Loss: 2.506682] [Correct: 1.000000]
+
+Epoch: 136
+[Train: ], [136/250: ], [Accuracy: 52.980000], [Loss: 2.322245] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 57.400000], [Loss: 2.506820] [Correct: 1.000000]
+
+Epoch: 137
+[Train: ], [137/250: ], [Accuracy: 53.050000], [Loss: 2.323997] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.450000], [Loss: 2.507284] [Correct: 1.000000]
+
+Epoch: 138
+[Train: ], [138/250: ], [Accuracy: 52.520000], [Loss: 2.318869] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 54.100000], [Loss: 2.504416] [Correct: 1.000000]
+
+Epoch: 139
+[Train: ], [139/250: ], [Accuracy: 53.380000], [Loss: 2.329653] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 57.250000], [Loss: 2.497933] [Correct: 1.000000]
+
+Epoch: 140
+[Train: ], [140/250: ], [Accuracy: 52.130000], [Loss: 2.317080] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 58.300000], [Loss: 2.498134] [Correct: 1.000000]
+
+Epoch: 141
+[Train: ], [141/250: ], [Accuracy: 52.190000], [Loss: 2.315307] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.700000], [Loss: 2.502442] [Correct: 1.000000]
+
+Epoch: 142
+[Train: ], [142/250: ], [Accuracy: 51.940000], [Loss: 2.317403] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 55.200000], [Loss: 2.501505] [Correct: 1.000000]
+
+Epoch: 143
+[Train: ], [143/250: ], [Accuracy: 51.470000], [Loss: 2.312114] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.450000], [Loss: 2.500940] [Correct: 1.000000]
+
+Epoch: 144
+[Train: ], [144/250: ], [Accuracy: 50.830000], [Loss: 2.307427] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 53.950000], [Loss: 2.487288] [Correct: 1.000000]
+
+Epoch: 145
+[Train: ], [145/250: ], [Accuracy: 50.730000], [Loss: 2.311821] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 53.750000], [Loss: 2.497565] [Correct: 1.000000]
+
+Epoch: 146
+[Train: ], [146/250: ], [Accuracy: 49.880000], [Loss: 2.310300] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.100000], [Loss: 2.498478] [Correct: 1.000000]
+
+Epoch: 147
+[Train: ], [147/250: ], [Accuracy: 50.670000], [Loss: 2.313245] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.850000], [Loss: 2.492514] [Correct: 1.000000]
+
+Epoch: 148
+[Train: ], [148/250: ], [Accuracy: 50.440000], [Loss: 2.307675] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 55.150000], [Loss: 2.493864] [Correct: 1.000000]
+
+Epoch: 149
+[Train: ], [149/250: ], [Accuracy: 49.830000], [Loss: 2.309698] [LossS: 0.000000] [Lr: 0.001000]
+[Test Accuracy: 56.200000], [Loss: 2.499017] [Correct: 1.000000]
+
+Epoch: 150
+[Train: ], [150/250: ], [Accuracy: 49.330000], [Loss: 2.299672] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 55.550000], [Loss: 2.481923] [Correct: 1.000000]
+
+Epoch: 151
+[Train: ], [151/250: ], [Accuracy: 49.060000], [Loss: 2.295955] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 55.850000], [Loss: 2.478127] [Correct: 1.000000]
+
+Epoch: 152
+[Train: ], [152/250: ], [Accuracy: 49.400000], [Loss: 2.289920] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 55.500000], [Loss: 2.478912] [Correct: 1.000000]
+
+Epoch: 153
+[Train: ], [153/250: ], [Accuracy: 49.550000], [Loss: 2.290729] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 55.300000], [Loss: 2.475889] [Correct: 1.000000]
+
+Epoch: 154
+[Train: ], [154/250: ], [Accuracy: 49.700000], [Loss: 2.287286] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 53.950000], [Loss: 2.475769] [Correct: 1.000000]
+
+Epoch: 155
+[Train: ], [155/250: ], [Accuracy: 48.640000], [Loss: 2.286690] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 54.100000], [Loss: 2.477387] [Correct: 1.000000]
+
+Epoch: 156
+[Train: ], [156/250: ], [Accuracy: 48.640000], [Loss: 2.287578] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 53.600000], [Loss: 2.477440] [Correct: 1.000000]
+
+Epoch: 157
+[Train: ], [157/250: ], [Accuracy: 48.550000], [Loss: 2.285481] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 53.600000], [Loss: 2.477482] [Correct: 1.000000]
+
+Epoch: 158
+[Train: ], [158/250: ], [Accuracy: 48.400000], [Loss: 2.283873] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 53.350000], [Loss: 2.475884] [Correct: 1.000000]
+
+Epoch: 159
+[Train: ], [159/250: ], [Accuracy: 47.680000], [Loss: 2.284323] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 52.900000], [Loss: 2.477187] [Correct: 1.000000]
+
+Epoch: 160
+[Train: ], [160/250: ], [Accuracy: 47.310000], [Loss: 2.281435] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 52.800000], [Loss: 2.477320] [Correct: 1.000000]
+
+Epoch: 161
+[Train: ], [161/250: ], [Accuracy: 46.900000], [Loss: 2.283666] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 51.650000], [Loss: 2.477041] [Correct: 1.000000]
+
+Epoch: 162
+[Train: ], [162/250: ], [Accuracy: 46.660000], [Loss: 2.285913] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 51.650000], [Loss: 2.476282] [Correct: 1.000000]
+
+Epoch: 163
+[Train: ], [163/250: ], [Accuracy: 46.050000], [Loss: 2.283351] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 52.350000], [Loss: 2.476122] [Correct: 1.000000]
+
+Epoch: 164
+[Train: ], [164/250: ], [Accuracy: 46.660000], [Loss: 2.281585] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 52.350000], [Loss: 2.478063] [Correct: 1.000000]
+
+Epoch: 165
+[Train: ], [165/250: ], [Accuracy: 45.900000], [Loss: 2.282845] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 52.050000], [Loss: 2.475053] [Correct: 1.000000]
+
+Epoch: 166
+[Train: ], [166/250: ], [Accuracy: 46.050000], [Loss: 2.280535] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 51.350000], [Loss: 2.475250] [Correct: 1.000000]
+
+Epoch: 167
+[Train: ], [167/250: ], [Accuracy: 45.680000], [Loss: 2.280447] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.900000], [Loss: 2.478801] [Correct: 1.000000]
+
+Epoch: 168
+[Train: ], [168/250: ], [Accuracy: 45.600000], [Loss: 2.278441] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.650000], [Loss: 2.476909] [Correct: 1.000000]
+
+Epoch: 169
+[Train: ], [169/250: ], [Accuracy: 45.580000], [Loss: 2.280400] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.850000], [Loss: 2.475947] [Correct: 1.000000]
+
+Epoch: 170
+[Train: ], [170/250: ], [Accuracy: 44.740000], [Loss: 2.279442] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.250000], [Loss: 2.476595] [Correct: 1.000000]
+
+Epoch: 171
+[Train: ], [171/250: ], [Accuracy: 44.230000], [Loss: 2.281314] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.400000], [Loss: 2.480022] [Correct: 1.000000]
+
+Epoch: 172
+[Train: ], [172/250: ], [Accuracy: 44.040000], [Loss: 2.280862] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.450000], [Loss: 2.477671] [Correct: 1.000000]
+
+Epoch: 173
+[Train: ], [173/250: ], [Accuracy: 44.250000], [Loss: 2.281627] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.500000], [Loss: 2.476216] [Correct: 1.000000]
+
+Epoch: 174
+[Train: ], [174/250: ], [Accuracy: 43.930000], [Loss: 2.278499] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 50.750000], [Loss: 2.478337] [Correct: 1.000000]
+
+Epoch: 175
+[Train: ], [175/250: ], [Accuracy: 44.000000], [Loss: 2.278333] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 49.500000], [Loss: 2.476982] [Correct: 1.000000]
+
+Epoch: 176
+[Train: ], [176/250: ], [Accuracy: 43.420000], [Loss: 2.278259] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 49.550000], [Loss: 2.476625] [Correct: 1.000000]
+
+Epoch: 177
+[Train: ], [177/250: ], [Accuracy: 42.690000], [Loss: 2.280641] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 49.650000], [Loss: 2.479215] [Correct: 1.000000]
+
+Epoch: 178
+[Train: ], [178/250: ], [Accuracy: 42.900000], [Loss: 2.281659] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.700000], [Loss: 2.478844] [Correct: 1.000000]
+
+Epoch: 179
+[Train: ], [179/250: ], [Accuracy: 42.920000], [Loss: 2.277285] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 49.550000], [Loss: 2.477306] [Correct: 1.000000]
+
+Epoch: 180
+[Train: ], [180/250: ], [Accuracy: 42.740000], [Loss: 2.277270] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.850000], [Loss: 2.476644] [Correct: 1.000000]
+
+Epoch: 181
+[Train: ], [181/250: ], [Accuracy: 42.190000], [Loss: 2.277122] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.600000], [Loss: 2.478236] [Correct: 1.000000]
+
+Epoch: 182
+[Train: ], [182/250: ], [Accuracy: 42.080000], [Loss: 2.278436] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.950000], [Loss: 2.479319] [Correct: 1.000000]
+
+Epoch: 183
+[Train: ], [183/250: ], [Accuracy: 42.220000], [Loss: 2.277800] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 49.050000], [Loss: 2.478980] [Correct: 1.000000]
+
+Epoch: 184
+[Train: ], [184/250: ], [Accuracy: 42.340000], [Loss: 2.274337] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.050000], [Loss: 2.478809] [Correct: 1.000000]
+
+Epoch: 185
+[Train: ], [185/250: ], [Accuracy: 41.710000], [Loss: 2.276761] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.850000], [Loss: 2.475295] [Correct: 1.000000]
+
+Epoch: 186
+[Train: ], [186/250: ], [Accuracy: 40.980000], [Loss: 2.275474] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.900000], [Loss: 2.477745] [Correct: 1.000000]
+
+Epoch: 187
+[Train: ], [187/250: ], [Accuracy: 41.370000], [Loss: 2.275386] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.100000], [Loss: 2.477494] [Correct: 1.000000]
+
+Epoch: 188
+[Train: ], [188/250: ], [Accuracy: 41.010000], [Loss: 2.274129] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.600000], [Loss: 2.479048] [Correct: 1.000000]
+
+Epoch: 189
+[Train: ], [189/250: ], [Accuracy: 41.490000], [Loss: 2.277117] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.500000], [Loss: 2.481802] [Correct: 1.000000]
+
+Epoch: 190
+[Train: ], [190/250: ], [Accuracy: 41.100000], [Loss: 2.275436] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.600000], [Loss: 2.477921] [Correct: 1.000000]
+
+Epoch: 191
+[Train: ], [191/250: ], [Accuracy: 41.050000], [Loss: 2.276131] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.300000], [Loss: 2.477408] [Correct: 1.000000]
+
+Epoch: 192
+[Train: ], [192/250: ], [Accuracy: 40.750000], [Loss: 2.274777] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 48.150000], [Loss: 2.478300] [Correct: 1.000000]
+
+Epoch: 193
+[Train: ], [193/250: ], [Accuracy: 40.220000], [Loss: 2.275304] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.400000], [Loss: 2.477549] [Correct: 1.000000]
+
+Epoch: 194
+[Train: ], [194/250: ], [Accuracy: 40.830000], [Loss: 2.272672] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.500000], [Loss: 2.476388] [Correct: 1.000000]
+
+Epoch: 195
+[Train: ], [195/250: ], [Accuracy: 40.900000], [Loss: 2.274370] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.100000], [Loss: 2.474876] [Correct: 1.000000]
+
+Epoch: 196
+[Train: ], [196/250: ], [Accuracy: 41.320000], [Loss: 2.273841] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.250000], [Loss: 2.475406] [Correct: 1.000000]
+
+Epoch: 197
+[Train: ], [197/250: ], [Accuracy: 40.310000], [Loss: 2.275651] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 46.750000], [Loss: 2.473043] [Correct: 1.000000]
+
+Epoch: 198
+[Train: ], [198/250: ], [Accuracy: 40.030000], [Loss: 2.270784] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 47.050000], [Loss: 2.475294] [Correct: 1.000000]
+
+Epoch: 199
+[Train: ], [199/250: ], [Accuracy: 40.370000], [Loss: 2.271807] [LossS: 0.000000] [Lr: 0.000100]
+[Test Accuracy: 45.900000], [Loss: 2.474679] [Correct: 1.000000]
+
+Epoch: 200
+[Train: ], [200/250: ], [Accuracy: 39.800000], [Loss: 2.273705] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.475432] [Correct: 1.000000]
+
+Epoch: 201
+[Train: ], [201/250: ], [Accuracy: 39.630000], [Loss: 2.272215] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.250000], [Loss: 2.474882] [Correct: 1.000000]
+
+Epoch: 202
+[Train: ], [202/250: ], [Accuracy: 40.090000], [Loss: 2.272260] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 47.250000], [Loss: 2.473934] [Correct: 1.000000]
+
+Epoch: 203
+[Train: ], [203/250: ], [Accuracy: 39.850000], [Loss: 2.274687] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.900000], [Loss: 2.476464] [Correct: 1.000000]
+
+Epoch: 204
+[Train: ], [204/250: ], [Accuracy: 39.890000], [Loss: 2.272778] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 47.150000], [Loss: 2.475908] [Correct: 1.000000]
+
+Epoch: 205
+[Train: ], [205/250: ], [Accuracy: 40.170000], [Loss: 2.271323] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.550000], [Loss: 2.476928] [Correct: 1.000000]
+
+Epoch: 206
+[Train: ], [206/250: ], [Accuracy: 40.440000], [Loss: 2.269803] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 47.150000], [Loss: 2.475719] [Correct: 1.000000]
+
+Epoch: 207
+[Train: ], [207/250: ], [Accuracy: 40.000000], [Loss: 2.270673] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.900000], [Loss: 2.475901] [Correct: 1.000000]
+
+Epoch: 208
+[Train: ], [208/250: ], [Accuracy: 40.070000], [Loss: 2.274037] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.475778] [Correct: 1.000000]
+
+Epoch: 209
+[Train: ], [209/250: ], [Accuracy: 40.200000], [Loss: 2.270268] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.750000], [Loss: 2.474932] [Correct: 1.000000]
+
+Epoch: 210
+[Train: ], [210/250: ], [Accuracy: 39.730000], [Loss: 2.270376] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.900000], [Loss: 2.474953] [Correct: 1.000000]
+
+Epoch: 211
+[Train: ], [211/250: ], [Accuracy: 39.940000], [Loss: 2.271988] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.800000], [Loss: 2.475002] [Correct: 1.000000]
+
+Epoch: 212
+[Train: ], [212/250: ], [Accuracy: 40.070000], [Loss: 2.273658] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.474770] [Correct: 1.000000]
+
+Epoch: 213
+[Train: ], [213/250: ], [Accuracy: 39.890000], [Loss: 2.273186] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.500000], [Loss: 2.473798] [Correct: 1.000000]
+
+Epoch: 214
+[Train: ], [214/250: ], [Accuracy: 40.000000], [Loss: 2.272640] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.600000], [Loss: 2.474593] [Correct: 1.000000]
+
+Epoch: 215
+[Train: ], [215/250: ], [Accuracy: 39.670000], [Loss: 2.272186] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.950000], [Loss: 2.474914] [Correct: 1.000000]
+
+Epoch: 216
+[Train: ], [216/250: ], [Accuracy: 39.920000], [Loss: 2.270450] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.550000], [Loss: 2.474586] [Correct: 1.000000]
+
+Epoch: 217
+[Train: ], [217/250: ], [Accuracy: 39.570000], [Loss: 2.275201] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.000000], [Loss: 2.476420] [Correct: 1.000000]
+
+Epoch: 218
+[Train: ], [218/250: ], [Accuracy: 39.880000], [Loss: 2.273403] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.200000], [Loss: 2.475829] [Correct: 1.000000]
+
+Epoch: 219
+[Train: ], [219/250: ], [Accuracy: 39.980000], [Loss: 2.268869] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.474985] [Correct: 1.000000]
+
+Epoch: 220
+[Train: ], [220/250: ], [Accuracy: 39.750000], [Loss: 2.276392] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.350000], [Loss: 2.474802] [Correct: 1.000000]
+
+Epoch: 221
+[Train: ], [221/250: ], [Accuracy: 39.440000], [Loss: 2.271890] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.600000], [Loss: 2.475759] [Correct: 1.000000]
+
+Epoch: 222
+[Train: ], [222/250: ], [Accuracy: 39.890000], [Loss: 2.270660] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.250000], [Loss: 2.473445] [Correct: 1.000000]
+
+Epoch: 223
+[Train: ], [223/250: ], [Accuracy: 39.900000], [Loss: 2.273213] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.200000], [Loss: 2.474454] [Correct: 1.000000]
+
+Epoch: 224
+[Train: ], [224/250: ], [Accuracy: 39.580000], [Loss: 2.268969] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.474018] [Correct: 1.000000]
+
+Epoch: 225
+[Train: ], [225/250: ], [Accuracy: 39.630000], [Loss: 2.272079] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.700000], [Loss: 2.474819] [Correct: 1.000000]
+
+Epoch: 226
+[Train: ], [226/250: ], [Accuracy: 39.420000], [Loss: 2.270918] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.000000], [Loss: 2.475825] [Correct: 1.000000]
+
+Epoch: 227
+[Train: ], [227/250: ], [Accuracy: 39.540000], [Loss: 2.271512] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.475618] [Correct: 1.000000]
+
+Epoch: 228
+[Train: ], [228/250: ], [Accuracy: 39.300000], [Loss: 2.270010] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.700000], [Loss: 2.476466] [Correct: 1.000000]
+
+Epoch: 229
+[Train: ], [229/250: ], [Accuracy: 39.620000], [Loss: 2.270421] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.350000], [Loss: 2.476630] [Correct: 1.000000]
+
+Epoch: 230
+[Train: ], [230/250: ], [Accuracy: 39.580000], [Loss: 2.271268] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.150000], [Loss: 2.475625] [Correct: 1.000000]
+
+Epoch: 231
+[Train: ], [231/250: ], [Accuracy: 39.610000], [Loss: 2.269495] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.250000], [Loss: 2.475363] [Correct: 1.000000]
+
+Epoch: 232
+[Train: ], [232/250: ], [Accuracy: 39.880000], [Loss: 2.271189] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.350000], [Loss: 2.476662] [Correct: 1.000000]
+
+Epoch: 233
+[Train: ], [233/250: ], [Accuracy: 39.090000], [Loss: 2.269934] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.150000], [Loss: 2.477486] [Correct: 1.000000]
+
+Epoch: 234
+[Train: ], [234/250: ], [Accuracy: 39.200000], [Loss: 2.270280] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.150000], [Loss: 2.475662] [Correct: 1.000000]
+
+Epoch: 235
+[Train: ], [235/250: ], [Accuracy: 39.490000], [Loss: 2.270385] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.700000], [Loss: 2.475268] [Correct: 1.000000]
+
+Epoch: 236
+[Train: ], [236/250: ], [Accuracy: 39.310000], [Loss: 2.270912] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 47.000000], [Loss: 2.474966] [Correct: 1.000000]
+
+Epoch: 237
+[Train: ], [237/250: ], [Accuracy: 39.400000], [Loss: 2.272120] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.450000], [Loss: 2.475410] [Correct: 1.000000]
+
+Epoch: 238
+[Train: ], [238/250: ], [Accuracy: 39.240000], [Loss: 2.269717] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.200000], [Loss: 2.474933] [Correct: 1.000000]
+
+Epoch: 239
+[Train: ], [239/250: ], [Accuracy: 38.960000], [Loss: 2.272721] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.450000], [Loss: 2.477413] [Correct: 1.000000]
+
+Epoch: 240
+[Train: ], [240/250: ], [Accuracy: 39.170000], [Loss: 2.271811] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.600000], [Loss: 2.475816] [Correct: 1.000000]
+
+Epoch: 241
+[Train: ], [241/250: ], [Accuracy: 39.070000], [Loss: 2.270225] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.200000], [Loss: 2.475364] [Correct: 1.000000]
+
+Epoch: 242
+[Train: ], [242/250: ], [Accuracy: 39.030000], [Loss: 2.269599] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.700000], [Loss: 2.474746] [Correct: 1.000000]
+
+Epoch: 243
+[Train: ], [243/250: ], [Accuracy: 38.900000], [Loss: 2.269047] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.650000], [Loss: 2.474855] [Correct: 1.000000]
+
+Epoch: 244
+[Train: ], [244/250: ], [Accuracy: 38.940000], [Loss: 2.270392] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.900000], [Loss: 2.475938] [Correct: 1.000000]
+
+Epoch: 245
+[Train: ], [245/250: ], [Accuracy: 39.050000], [Loss: 2.271806] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.000000], [Loss: 2.478193] [Correct: 1.000000]
+
+Epoch: 246
+[Train: ], [246/250: ], [Accuracy: 38.910000], [Loss: 2.270735] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.800000], [Loss: 2.476271] [Correct: 1.000000]
+
+Epoch: 247
+[Train: ], [247/250: ], [Accuracy: 38.840000], [Loss: 2.267543] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 45.750000], [Loss: 2.475544] [Correct: 1.000000]
+
+Epoch: 248
+[Train: ], [248/250: ], [Accuracy: 39.080000], [Loss: 2.268171] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.350000], [Loss: 2.475584] [Correct: 1.000000]
+
+Epoch: 249
+[Train: ], [249/250: ], [Accuracy: 38.870000], [Loss: 2.271761] [LossS: 0.000000] [Lr: 0.000010]
+[Test Accuracy: 46.400000], [Loss: 2.475332] [Correct: 1.000000]
+==> Resuming from checkpoint..
+ckpt816/cifar100-5-angular/ckpt_task0.pth
+Task: 0  Test_accuracy: 64.9
+Training Task :---1
+==> Resuming from checkpoint..
+ckpt816/cifar100-5-angular/ckpt_task0.pth
+
+Epoch: 0
+[Train: ], [0/250: ], [Accuracy: 17.640000], [Loss: 2.920979] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 21.600000], [Loss: 3.016708] [Correct: 0.901500]
+Saving..
+
+Epoch: 1
+[Train: ], [1/250: ], [Accuracy: 23.280000], [Loss: 2.863567] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 24.800000], [Loss: 2.978765] [Correct: 0.924000]
+Saving..
+
+Epoch: 2
+[Train: ], [2/250: ], [Accuracy: 25.860000], [Loss: 2.834081] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 27.650000], [Loss: 2.911538] [Correct: 0.802000]
+Saving..
+
+Epoch: 3
+[Train: ], [3/250: ], [Accuracy: 27.370000], [Loss: 2.822405] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 25.850000], [Loss: 2.940137] [Correct: 0.862000]
+
+Epoch: 4
+[Train: ], [4/250: ], [Accuracy: 30.170000], [Loss: 2.791523] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 30.200000], [Loss: 2.878249] [Correct: 0.836500]
+Saving..
+
+Epoch: 5
+[Train: ], [5/250: ], [Accuracy: 31.190000], [Loss: 2.775893] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 27.300000], [Loss: 2.866224] [Correct: 0.699000]
+
+Epoch: 6
+[Train: ], [6/250: ], [Accuracy: 32.490000], [Loss: 2.761814] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 29.300000], [Loss: 2.854698] [Correct: 0.797000]
+
+Epoch: 7
+[Train: ], [7/250: ], [Accuracy: 33.480000], [Loss: 2.741334] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 32.400000], [Loss: 2.825458] [Correct: 0.798000]
+Saving..
+
+Epoch: 8
+[Train: ], [8/250: ], [Accuracy: 35.700000], [Loss: 2.723290] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 31.050000], [Loss: 2.867182] [Correct: 0.808000]
+
+Epoch: 9
+[Train: ], [9/250: ], [Accuracy: 36.270000], [Loss: 2.720556] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 30.350000], [Loss: 2.885973] [Correct: 0.879500]
+
+Epoch: 10
+[Train: ], [10/250: ], [Accuracy: 35.040000], [Loss: 2.736852] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 34.950000], [Loss: 2.839186] [Correct: 0.830500]
+Saving..
+
+Epoch: 11
+[Train: ], [11/250: ], [Accuracy: 37.370000], [Loss: 2.712571] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 34.650000], [Loss: 2.828166] [Correct: 0.853500]
+
+Epoch: 12
+[Train: ], [12/250: ], [Accuracy: 37.650000], [Loss: 2.710781] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 33.550000], [Loss: 2.826171] [Correct: 0.793000]
+
+Epoch: 13
+[Train: ], [13/250: ], [Accuracy: 37.770000], [Loss: 2.698428] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 32.600000], [Loss: 2.845356] [Correct: 0.809000]
+
+Epoch: 14
+[Train: ], [14/250: ], [Accuracy: 37.350000], [Loss: 2.694954] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 36.800000], [Loss: 2.781821] [Correct: 0.809500]
+Saving..
+
+Epoch: 15
+[Train: ], [15/250: ], [Accuracy: 37.820000], [Loss: 2.689844] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 38.100000], [Loss: 2.768061] [Correct: 0.837500]
+Saving..
+
+Epoch: 16
+[Train: ], [16/250: ], [Accuracy: 39.910000], [Loss: 2.681234] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 34.150000], [Loss: 2.832057] [Correct: 0.829000]
+
+Epoch: 17
+[Train: ], [17/250: ], [Accuracy: 40.540000], [Loss: 2.675019] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 36.000000], [Loss: 2.791038] [Correct: 0.794000]
+
+Epoch: 18
+[Train: ], [18/250: ], [Accuracy: 39.990000], [Loss: 2.685770] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 38.150000], [Loss: 2.800408] [Correct: 0.840000]
+Saving..
+
+Epoch: 19
+[Train: ], [19/250: ], [Accuracy: 41.520000], [Loss: 2.667606] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 37.150000], [Loss: 2.787240] [Correct: 0.783000]
+
+Epoch: 20
+[Train: ], [20/250: ], [Accuracy: 40.660000], [Loss: 2.671953] [LossS: 0.000000] [Lr: 0.010000]
+[Test Accuracy: 38.950000], [Loss: 2.769189] [Correct: 0.834500]
+Saving..
+
+Epoch: 21
