@@ -26,6 +26,24 @@ os.environ["CUDA_VISIBLE_DEVICES"]='0'
 
 
 
+#+++ argparser +++#
+parser = argparse.ArgumentParser(description='')
+parser.add_argument('--use-npc-loss',
+                    action='store_true',
+                    default=False,
+                    help='set to use NPC loss (default: False)')
+parser.add_argument('--use-unknown-class',
+                    action='store_true',
+                    default=False,
+                    help='set to use unknown class (default: False)')
+parser.add_argument('--model-path',
+                    type=str,
+                    default='ckpt816/cifar100-10',
+                    help='directory to load model')
+opt = parser.parse_args()
+#+++++++++++++++++#
+
+
 class args():
     data_path = "./Datasets/CIFAR100/"
     num_class = 100
@@ -45,17 +63,17 @@ class args():
     resume = False
     
     total_epoch = 250
-    model_path = 'ckpt816/cifar100-10-unknownclasss0.1'
+    model_path = opt.model_path
 
     #+++ NPC loss +++#
-    bool_npc_loss = False
+    bool_npc_loss = opt.use_npc_loss
     scale = 32      # exp range[0, 8.8861e+6, 7.8964e+13]
     margin = 0.9396 # cos e, e is 20 degree
     l = 1           # ratio of intra and inter task loss
     #++++++++++++++++#
 
     #+++ unknown class +++#
-    bool_unknown_class = True
+    bool_unknown_class = opt.use_unknown_class
     samp_size = 0.1
     #+++++++++++++++++++++#
 
